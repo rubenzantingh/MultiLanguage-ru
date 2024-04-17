@@ -1,0 +1,13 @@
+## Interface: 30403
+## Title: MultiLanguage_RU
+## Notes: RU language for the MultiLanguage addon
+## Author: Ruben Zantingh
+## Version: 0.1.0
+## Dependencies: MultiLanguage
+
+Database/items.lua
+Database/npcs.lua
+Database/quests.lua
+Database/spells.lua
+
+MultiLanguage_RU.lua
