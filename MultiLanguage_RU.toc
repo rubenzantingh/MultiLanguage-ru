@@ -1,0 +1,31 @@
+## Interface: 11001
+## Title: MultiLanguage_RU
+## Notes: RU language for the MultiLanguage addon
+## Author: Ruben Zantingh
+## Version: 0.0.1
+## Dependencies: MultiLanguage
+
+Database/Quests/quests.lua
+
+Database/Items/items.lua
+Database/Items/itemsOne.lua
+Database/Items/itemsTwo.lua
+Database/Items/itemsThree.lua
+Database/Items/itemsFour.lua
+
+Database/Npcs/npcs.lua
+Database/Npcs/npcsOne.lua
+Database/Npcs/npcsTwo.lua
+Database/Npcs/npcsThree.lua
+Database/Npcs/npcsFour.lua
+
+Database/Spells/spells.lua
+Database/Spells/spellsOne.lua
+Database/Spells/spellsTwo.lua
+Database/Spells/spellsThree.lua
+Database/Spells/spellsFour.lua
+Database/Spells/spellsFive.lua
+Database/Spells/spellsSix.lua
+Database/Spells/spellsSeven.lua
+
+MultiLanguage_RU.lua

@@ -1,0 +1,1 @@
+MultiLanguageSpellData['ru'] = {}
