@@ -37834,8 +37834,7 @@ MultiLanguageNpcData['ru'][222752] = {name = "Сверкающий светля�
 MultiLanguageNpcData['ru'][222753] = {name = "Рассветное Пламя", subname = "Главный мышелов"}
 MultiLanguageNpcData['ru'][222754] = {name = "Дремоискрый светлячок", subname = nil}
 MultiLanguageNpcData['ru'][222755] = {name = "Злобный кровоклещ", subname = nil}
-MultiLanguageNpcData['ru'][222756] = {name = "Глубинный Скиталец –
-владыка пещер", subname = nil}
+MultiLanguageNpcData['ru'][222756] = {name = "Глубинный Скиталец –владыка пещер", subname = nil}
 MultiLanguageNpcData['ru'][222757] = {name = "Глинокрыл-пожиратель", subname = nil}
 MultiLanguageNpcData['ru'][222758] = {name = "Arathi Child", subname = "[Model inc]"}
 MultiLanguageNpcData['ru'][222759] = {name = "Прожорливый глинокрыл", subname = nil}
