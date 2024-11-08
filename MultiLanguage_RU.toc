@@ -1,4 +1,4 @@
-## Interface: 40400
+## Interface: 40401
 ## Title: MultiLanguage_RU
 ## Notes: RU language for the MultiLanguage addon
 ## Author: Ruben Zantingh
