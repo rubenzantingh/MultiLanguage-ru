@@ -2,7 +2,7 @@
 
 RELEASE_NAME="$1"
 RELEASE_MESSAGE="$2"
-GAME_VERSION=[11926]
+GAME_VERSIONS=[11926]
 FILE_PATH="./MultiLanguage_RU.zip"
 
 CF_METADATA=$(cat <<-EOF
@@ -11,7 +11,7 @@ CF_METADATA=$(cat <<-EOF
     "releaseType": "release",
     "changelog": "$RELEASE_MESSAGE",
     "changelogType": "markdown",
-    "gameVersions": [$GAME_VERSION],
+    "gameVersions": $GAME_VERSIONS,
 }
 EOF
 )
