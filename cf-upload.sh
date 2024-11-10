@@ -3,7 +3,7 @@
 RELEASE_NAME="$1"
 RELEASE_MESSAGE="$2"
 GAME_VERSION=[11926]
-FILE_PATH="./release/MultiLanguage_RU.zip"
+FILE_PATH="./MultiLanguage_RU.zip"
 
 CF_METADATA=$(cat <<-EOF
 {
@@ -15,9 +15,6 @@ CF_METADATA=$(cat <<-EOF
 }
 EOF
 )
-
-ls -lha ./release
-ls -lha .
 
 response=$(curl -sS \
     -o response.txt \
