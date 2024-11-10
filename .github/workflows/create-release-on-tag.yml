@@ -30,8 +30,8 @@ jobs:
       run: |
         mkdir -p release/MultiLanguage_RU
         ls -lha
-        find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} release/MultiLanguage_RU \;        
-        zip -r MultiLanguage_RU.zip release/MultiLanguage_RU \
+        find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} MultiLanguage_RU \;        
+        zip -r MultiLanguage_RU.zip MultiLanguage_RU \
             -x "**/.git/**" \
             -x "**/.github/**" \
             -x "**/.gitattributes" \

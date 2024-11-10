@@ -22,7 +22,7 @@ response=$(curl -sS \
     -H "X-API-TOKEN: $CF_API_TOKEN" \
     -F "metadata=$CF_METADATA" \
     -F "file=@releases/$RELEASE_NAME/MultiLanguage_$ADDON_LANG.zip" \
-    "https://wow.curseforge.com/api/projects/965777/upload-file")
+    "https://wow.curseforge.com/api/projects/1004877/upload-file")
 
 http_status=$(echo "$response" | tail -n1)
 
