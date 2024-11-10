@@ -32,6 +32,7 @@ jobs:
         ls -lha
         find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} release/MultiLanguage_RU \;        
         zip -r MultiLanguage_RU.zip release/MultiLanguage_RU \
+            -x "**/.git/**" \
             -x "**/.github/**" \
             -x "**/.gitattributes" \
             -x "**/.gitignore" \
@@ -51,6 +52,8 @@ jobs:
 
     - name: Upload additional file to the release
       uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: MultiLanguage_RU.zip
