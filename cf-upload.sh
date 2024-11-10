@@ -3,7 +3,7 @@
 RELEASE_NAME="$1"
 RELEASE_MESSAGE="$2"
 GAME_VERSION=[11926]
-ADDON_LANG="RU"
+FILE_PATH="./release/MultiLanguage_RU.zip"
 
 CF_METADATA=$(cat <<-EOF
 {
@@ -21,7 +21,7 @@ response=$(curl -sS \
     -w "%{http_code}" \
     -H "X-API-TOKEN: $CF_API_TOKEN" \
     -F "metadata=$CF_METADATA" \
-    -F "file=@releases/$RELEASE_NAME/MultiLanguage_$ADDON_LANG.zip" \
+    -F "file=@$FILE_PATH" \
     "https://wow.curseforge.com/api/projects/1004877/upload-file")
 
 http_status=$(echo "$response" | tail -n1)
