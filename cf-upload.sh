@@ -9,9 +9,9 @@ CF_METADATA=$(cat <<-EOF
 {
     "displayName": "$RELEASE_NAME",
     "releaseType": "release",
-    "changelog": $RELEASE_MESSAGE,
+    "changelog": "$RELEASE_MESSAGE",
     "changelogType": "markdown",
-    "gameVersions": [$GAME_VERSION]
+    "gameVersions": [$GAME_VERSION],
 }
 EOF
 )
