@@ -29,10 +29,9 @@ jobs:
     - name: Create additional ZIP file with new name
       run: |
         mkdir -p release/MultiLanguage_RU
-        ls -lha
-        find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} MultiLanguage_RU \;        
-        zip -r MultiLanguage_RU.zip MultiLanguage_RU \
-            -x "**/.git/**" \
+        find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} release/MultiLanguage_RU \;
+        cd release
+        zip -r ../MultiLanguage_RU.zip MultiLanguage_RU \
             -x "**/.github/**" \
             -x "**/.gitattributes" \
             -x "**/.gitignore" \
@@ -61,4 +60,4 @@ jobs:
         asset_content_type: application/zip
 
     - name: Upload Curseforge file
-      run: sh cf-upload.sh env.COMMIT_MESSAGE
+      run: sh cf-upload.sh ${{ env.COMMIT_MESSAGE }}
