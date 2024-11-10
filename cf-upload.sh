@@ -16,6 +16,9 @@ CF_METADATA=$(cat <<-EOF
 EOF
 )
 
+ls -lha ./release
+ls -lha .
+
 response=$(curl -sS \
     -o response.txt \
     -w "%{http_code}" \
