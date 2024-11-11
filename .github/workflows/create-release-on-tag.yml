@@ -30,8 +30,8 @@ jobs:
       run: |
         mkdir -p release/MultiLanguage_RU
         rsync -av --exclude=".git" --exclude=".github" --exclude=".gitattributes" --exclude=".gitignore" --exclude="cf-upload.sh" . release/MultiLanguage_RU/
-        cd release/MultiLanguage_RU
-        zip -r ../../MultiLanguage_RU.zip .
+        cd release
+        zip -r ../MultiLanguage_RU.zip MultiLanguage_RU/*
 
     - name: Create a new release
       id: create_release
@@ -54,6 +54,3 @@ jobs:
         asset_path: MultiLanguage_RU.zip
         asset_name: MultiLanguage_RU.zip
         asset_content_type: application/zip
-
-    - name: Upload Curseforge file
-      run: sh cf-upload.sh "${{ env.TAG_NAME }}" "${{ env.COMMIT_MESSAGE }}"
