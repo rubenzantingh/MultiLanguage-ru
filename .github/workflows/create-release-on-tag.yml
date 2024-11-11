@@ -32,6 +32,7 @@ jobs:
         find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} release/MultiLanguage_RU \;
         cd release
         zip -r ../MultiLanguage_RU.zip MultiLanguage_RU \
+            -x "**/.git/**" \
             -x "**/.github/**" \
             -x "**/.gitattributes" \
             -x "**/.gitignore" \
@@ -60,4 +61,4 @@ jobs:
         asset_content_type: application/zip
 
     - name: Upload Curseforge file
-      run: sh cf-upload.sh ${{ env.COMMIT_MESSAGE }}
+      run: sh cf-upload.sh ${{ env.TAG_NAME }} ${{ env.COMMIT_MESSAGE }}
