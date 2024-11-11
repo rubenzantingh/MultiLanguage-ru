@@ -29,14 +29,9 @@ jobs:
     - name: Create additional ZIP file with new name
       run: |
         mkdir -p release/MultiLanguage_RU
-        find . -maxdepth 1 -mindepth 1 ! -name 'release' -exec cp -r {} release/MultiLanguage_RU \;
+        rsync -av --exclude=".git" --exclude=".github" --exclude=".gitattributes" --exclude=".gitignore" --exclude="cf-upload.sh" . release/MultiLanguage_RU/
         cd release
-        zip -r ../MultiLanguage_RU.zip MultiLanguage_RU \
-            -x "**/.git/**" \
-            -x "**/.github/**" \
-            -x "**/.gitattributes" \
-            -x "**/.gitignore" \
-            -x "**/cf-upload.sh"
+        zip -r ../MultiLanguage_RU.zip MultiLanguage_RU
 
     - name: Create a new release
       id: create_release
@@ -61,4 +56,4 @@ jobs:
         asset_content_type: application/zip
 
     - name: Upload Curseforge file
-      run: sh cf-upload.sh ${{ env.TAG_NAME }} ${{ env.COMMIT_MESSAGE }}
+      run: sh cf-upload.sh "${{ env.TAG_NAME }}" "${{ env.COMMIT_MESSAGE }}"
