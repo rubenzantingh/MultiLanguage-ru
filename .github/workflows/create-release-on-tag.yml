@@ -59,3 +59,6 @@ jobs:
         asset_path: MultiLanguage_RU.zip
         asset_name: MultiLanguage_RU.zip
         asset_content_type: application/zip
+
+    - name: Upload Curseforge file
+      run: sh cf-upload.sh "${{ env.TAG_NAME }}" "${{ env.COMMIT_MESSAGE }}"
