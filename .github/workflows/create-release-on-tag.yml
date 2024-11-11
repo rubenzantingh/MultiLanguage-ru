@@ -29,9 +29,14 @@ jobs:
     - name: Create additional ZIP file with new name
       run: |
         mkdir -p release/MultiLanguage_RU
-        rsync -av --exclude=".git" --exclude=".github" --exclude=".gitattributes" --exclude=".gitignore" --exclude="cf-upload.sh" . release/MultiLanguage_RU/
+        find . -maxdepth 1 -mindepth 1 ! -name 'release' ! -name '.git' ! -name '.github' -exec cp -r {} release/MultiLanguage_RU \;
         cd release
-        zip -r ../MultiLanguage_RU.zip MultiLanguage_RU/*
+        zip -r ../MultiLanguage_RU.zip MultiLanguage_RU \
+            -x "**/.git/**" \
+            -x "**/.github/**" \
+            -x "**/.gitattributes" \
+            -x "**/.gitignore" \
+            -x "**/cf-upload.sh"
 
     - name: Create a new release
       id: create_release
