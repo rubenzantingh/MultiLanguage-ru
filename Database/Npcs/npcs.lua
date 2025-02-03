@@ -36420,5 +36420,6 @@ MultiLanguageNpcData['ru'][226201] = {name = "Peletort", subname = "Dungeon Frie
 MultiLanguageNpcData['ru'][226581] = {name = "Ветрокрыл", subname = nil}
 MultiLanguageNpcData['ru'][228792] = {name = "Преследователь шипа Магмаря", subname = nil}
 MultiLanguageNpcData['ru'][232527] = {name = "Ревен", subname = nil}
+MultiLanguageNpcData['ru'][232536] = {name = "Деревянный воздушный змееныш", subname = nil}
 MultiLanguageNpcData['ru'][232984] = {name = "Минотавр Огненной передовой", subname = "Припасы для Огненной передовой"}
 MultiLanguageNpcData['ru'][234135] = {name = "Кианитовый камнестраж", subname = "Обмен фрагментов разломного камня"}
