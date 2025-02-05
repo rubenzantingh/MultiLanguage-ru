@@ -2,7 +2,7 @@
 ## Title: MultiLanguage_RU
 ## Notes: RU language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.0.8
+## Version: 1.0.9
 ## Dependencies: MultiLanguage
 
 Database/Quests/quests.lua
