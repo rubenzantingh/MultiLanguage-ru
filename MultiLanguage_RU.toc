@@ -2,7 +2,7 @@
 ## Title: MultiLanguage_RU
 ## Notes: RU language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.1.11
+## Version: 1.1.10
 ## Dependencies: MultiLanguage
 
 Database/Npcs/npcs.lua
