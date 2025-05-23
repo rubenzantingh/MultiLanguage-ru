@@ -1167,6 +1167,7 @@ MultiLanguageNpcData['ru'][240442] = {name = "Кейджей", subname = "Гла
 MultiLanguageNpcData['ru'][240443] = {name = "Синь Гогельмогель", subname = "Торговый принц картеля Хитрой Шестеренки"}
 MultiLanguageNpcData['ru'][240476] = {name = "Посетитель Нижней Шахты", subname = nil}
 MultiLanguageNpcData['ru'][240477] = {name = "Оплетенный разведчик", subname = nil}
+MultiLanguageNpcData['ru'][240481] = {name = "Consultant Wrexxle", subname = "[Undermine Dealer]"}
 MultiLanguageNpcData['ru'][240483] = {name = "Flame Eater", subname = nil}
 MultiLanguageNpcData['ru'][240517] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['ru'][240528] = {name = "Звуковой преследователь – 11.1 Окр – Нижняя Шахта – Траффик: звуковой преследователь", subname = nil}
