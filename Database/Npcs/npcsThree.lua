@@ -17028,7 +17028,6 @@ MultiLanguageNpcData['ru'][140250] = {name = "Елень", subname = nil}
 MultiLanguageNpcData['ru'][140251] = {name = "Молодой елень", subname = nil}
 MultiLanguageNpcData['ru'][140252] = {name = "Градовый голем", subname = nil}
 MultiLanguageNpcData['ru'][140253] = {name = "Дарнасский беженец", subname = nil}
-MultiLanguageNpcData['ru'][140254] = {name = "Жрец Ширваллы", subname = nil}
 MultiLanguageNpcData['ru'][140255] = {name = "Портал на аванпост", subname = nil}
 MultiLanguageNpcData['ru'][140257] = {name = "Халфорд Змеевержец", subname = "Главнокомандующий 7-го легиона"}
 MultiLanguageNpcData['ru'][140258] = {name = "Шандриса Оперенная Луна", subname = "Генерал армии Часовых"}

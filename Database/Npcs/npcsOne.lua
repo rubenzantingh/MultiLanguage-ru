@@ -14999,7 +14999,6 @@ MultiLanguageNpcData['ru'][22059] = {name = "Наездник на грифон�
 MultiLanguageNpcData['ru'][22060] = {name = "Фенисса Убийца", subname = nil}
 MultiLanguageNpcData['ru'][22061] = {name = "Душекрад из клана Призрачной Луны", subname = nil}
 MultiLanguageNpcData['ru'][22062] = {name = "Доктор Белоручка", subname = nil}
-MultiLanguageNpcData['ru'][22063] = {name = "Заграждение ВВС - на крыше (Гоблины - Зона 52)", subname = nil}
 MultiLanguageNpcData['ru'][22064] = {name = "Дракон Штормовой Вершины", subname = nil}
 MultiLanguageNpcData['ru'][22065] = {name = "Застава ВВС (Астрал - Штормовой утес)", subname = nil}
 MultiLanguageNpcData['ru'][22066] = {name = "Застава ВВС (Провидцы - дракондор)", subname = nil}

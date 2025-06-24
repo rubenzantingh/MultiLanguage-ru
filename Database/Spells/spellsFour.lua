@@ -8247,7 +8247,7 @@ MultiLanguageSpellData['ru'][232063] = {name = "Волшебный импуль�
 MultiLanguageSpellData['ru'][232064] = {name = "Intro Conversation", additional_info = nil}
 MultiLanguageSpellData['ru'][232065] = {name = "Outro Conversation", additional_info = nil}
 MultiLanguageSpellData['ru'][232066] = {name = "Наполнение энергией пожирателя маны", additional_info = nil}
-MultiLanguageSpellData['ru'][232067] = {name = "Священное усиление", additional_info = "Мгновенное действие\n[q]Ваши атаки могут вызвать срабатывание эффекта \"Святой указ\", который нанесет противнику 5000 ед. урона."}
+MultiLanguageSpellData['ru'][232067] = {name = "Священное усиление", additional_info = "{Мгновенное действие} {Восстановление: 10 сек}\n[q]Ваши атаки могут вызвать срабатывание эффекта \"Святой указ\", который нанесет противнику 5000 ед. урона."}
 MultiLanguageSpellData['ru'][232068] = {name = "Поражение Скверной", additional_info = nil}
 MultiLanguageSpellData['ru'][232069] = {name = "Освобожденный дух", additional_info = nil}
 MultiLanguageSpellData['ru'][232070] = {name = "Книга на полке", additional_info = "Радиус действия: 40 м\nПрименение: 1.5 сек\n[q]Поставить на полку несколько важных книг."}
@@ -10367,7 +10367,7 @@ MultiLanguageSpellData['ru'][234511] = {name = "Знак признания Ар
 MultiLanguageSpellData['ru'][234512] = {name = "Знак признания операции \"Заслон\"", additional_info = "Мгновенное действие\n[q]Повышает репутацию с операцией \"Заслон\" на 300."}
 MultiLanguageSpellData['ru'][234513] = {name = "Знак признания натиска Шадо-Пан", additional_info = "Мгновенное действие\n[q]Улучшает отношение к вам Натиска Шадо-Пан на 300."}
 MultiLanguageSpellData['ru'][234514] = {name = "Знак признания рыболовов", additional_info = "Мгновенное действие\n[q]Улучшает отношение к вам рыболовов на 300."}
-MultiLanguageSpellData['ru'][234515] = {name = "Знак признания императора Шаохао", additional_info = "Мгновенное действие\n[q]Повышает репутацию с императором Шаохао на 500."}
+MultiLanguageSpellData['ru'][234515] = {name = "Знак признания императора Шаохао", additional_info = "Мгновенное действие\n[q]Повышает репутацию с императором Шаохао на 1000."}
 MultiLanguageSpellData['ru'][234516] = {name = "Fel Spawn", additional_info = nil}
 MultiLanguageSpellData['ru'][234517] = {name = "Телепорт к подземелью системы поиска", additional_info = nil}
 MultiLanguageSpellData['ru'][234519] = {name = "Призыв сквернотопыря (в Гробницу Саргераса)", additional_info = nil}
@@ -14180,7 +14180,6 @@ MultiLanguageSpellData['ru'][239254] = {name = "Пылающая сфера", ad
 MultiLanguageSpellData['ru'][239255] = {name = "Play Scene", additional_info = nil}
 MultiLanguageSpellData['ru'][239256] = {name = "Пылающая сфера", additional_info = nil}
 MultiLanguageSpellData['ru'][239257] = {name = "Platform Jump - East > South", additional_info = nil}
-MultiLanguageSpellData['ru'][239258] = {name = "Platform Jump - North > West", additional_info = nil}
 MultiLanguageSpellData['ru'][239259] = {name = "Platform Jump - West > North", additional_info = nil}
 MultiLanguageSpellData['ru'][239260] = {name = "Platform Jump - West > South", additional_info = nil}
 MultiLanguageSpellData['ru'][239261] = {name = "Platform Jump - South > West", additional_info = nil}
@@ -28301,7 +28300,7 @@ MultiLanguageSpellData['ru'][256129] = {name = "Отнести контейне�
 MultiLanguageSpellData['ru'][256130] = {name = "Carry Crate Stack (Zandalari) With Kneeling", additional_info = nil}
 MultiLanguageSpellData['ru'][256131] = {name = "Проверка", additional_info = nil}
 MultiLanguageSpellData['ru'][256132] = {name = "[q3]Двигатель с турбонаддувом", additional_info = "Применение: 3.5 сек\nИнгредиенты:\nМонелитовая руда (100), Руда штормового серебра (50), Изолированный провод (25), Химический запал (12), Дистиллиум (8)\n[q]Изготовить двигатель с турбонаддувом.\nИсточник:\nКУ-ДЖ0\nЗона:\nоперация \"Мехагон\"\n\n[q3]Двигатель с турбонаддувом\n[q2]Использование: Объединить усиленную монелитовую раму и двигатель с турбонаддувом, чтобы изготовить везделет \"Скивиллаг\". Это очень быстрый транспорт."}
-MultiLanguageSpellData['ru'][256133] = {name = "Зелье призрачной быстроты", additional_info = "Применение: 2 сек\nИнгредиенты:\nПокрытый рунами флакон , Смертоцвет (2), Костяной корень (3)\nПрофессия:\nалхимия Темных Земель (60)\nУчитель:\nэликсирщик Ау'пир\nЗона:\nОрибос\nЦена:\n2\n50\n\n[q2]Использование: Повышает скорость передвижения в облике духа на 100%. Действует только в Темных Землях. Время действия – 2 мин. (1 Мин Восстановление)\nТребуется\nДобывается с: Раздувшаяся муха-добытчица\nВероятность получения: 2.78%"}
+MultiLanguageSpellData['ru'][256133] = {name = "Зелье призрачной быстроты", additional_info = "Применение: 2 сек\nИнгредиенты:\nПокрытый рунами флакон , Смертоцвет (2), Костяной корень (3)\nПрофессия:\nалхимия Темных Земель (60)\nУчитель:\nэликсирщик Ау'пир\nЗона:\nОрибос\nЦена:\n2\n50\n\n[q2]Использование: Повышает скорость передвижения в облике духа на 100%. Действует только в Темных Землях. Время действия – 2 мин. (1 Мин Восстановление)\nТребуется\nДобывается с: Раздувшаяся муха-добытчица\nВероятность получения: 2.77%"}
 MultiLanguageSpellData['ru'][256134] = {name = "Зелье духовной чистоты", additional_info = "Применение: 2 сек\nИнгредиенты:\nПокрытый рунами флакон , Смертоцвет (2), Факел дозорного (3)\nПрофессия:\nалхимия Темных Земель (50)\nУчитель:\nэликсирщик Ау'пир\nЗона:\nОрибос\nЦена:\n2\n\n[q2]Использование: Снимает с выпившего одно проклятие, одну болезнь и один эффект яда. Не действует на персонажей выше 60-го уровня. (5 Мин Восстановление)\nТребуется\nДобывается с: Раздувшаяся муха-добытчица\nВероятность получения: 3.09%"}
 MultiLanguageSpellData['ru'][256135] = {name = "Бомбардировка Легиона", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]"}
 MultiLanguageSpellData['ru'][256136] = {name = "Постоянная ложная смерть (набор анимации утопления)", additional_info = nil}
@@ -34191,7 +34190,7 @@ MultiLanguageSpellData['ru'][263235] = {name = "Кровавое пиршест�
 MultiLanguageSpellData['ru'][263236] = {name = "Кровавое пиршество", additional_info = "Неограниченное расстояние\nМгновенное действие\n[q]Щупальца порчи Г'ууна обездвиживают цель на 6 сек.\n\n Через 6 сек. у игроков в радиусе 8.5 м от цели обновляется действие эффекта \" Порченая кровь \" и появляется стонущий кошмар."}
 MultiLanguageSpellData['ru'][263241] = {name = "Свиток парения", additional_info = nil}
 MultiLanguageSpellData['ru'][263244] = {name = "Пламенный рывок", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Совершает рывок к противнику, нанося физический урон и снижая скорость передвижения на 2 сек."}
-MultiLanguageSpellData['ru'][263246] = {name = "Щит молний", additional_info = "Неограниченное расстояние\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9784 ед. урона от сил природы в атакующих.\n(Восстановление: 2с)"}
+MultiLanguageSpellData['ru'][263246] = {name = "Щит молний", additional_info = "Неограниченное расстояние\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9792 ед. урона от сил природы в атакующих.\n(Восстановление: 2с)"}
 MultiLanguageSpellData['ru'][263249] = {name = "Поиск", additional_info = nil}
 MultiLanguageSpellData['ru'][263251] = {name = "Толкнуть сундук с памятными вещами", additional_info = nil}
 MultiLanguageSpellData['ru'][263252] = {name = "The Stormwind Extraction Scenario Launch", additional_info = nil}
@@ -37374,7 +37373,7 @@ MultiLanguageSpellData['ru'][267475] = {name = "Summon Debris Pile (PH)", additi
 MultiLanguageSpellData['ru'][267480] = {name = "Удар когтями", additional_info = "Радиус действия: 8 м\n{Мгновенное действие} {Восстановление: 3 сек}\n[q]Полосует находящихся рядом противников, нанося 196 ед. физического урона."}
 MultiLanguageSpellData['ru'][267481] = {name = "Цель отмечена крестом", additional_info = nil}
 MultiLanguageSpellData['ru'][267482] = {name = "Зандаларское горное дело", additional_info = "Применение: 2 сек\nТребуется: Перчатки\nИнструменты: Рунический жезл для наложения чар\nИнгредиенты:\nСумеречная пыль (5)\n[q]Наложение на перчатки чар, повышающих скорость добычи руды в Кул-Тирасе и Зандаларе.\nПрофессия:\nналожение чар Battle for Azeroth (1)\nУчитель:\nзаклинательница Куинни\nЗона:\nЗулдазар\nЦена:\n10"}
-MultiLanguageSpellData['ru'][267483] = {name = "Мечущиеся искры", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Искры наносят 32 ед. урона от сил природы игрокам на своем пути."}
+MultiLanguageSpellData['ru'][267483] = {name = "Мечущиеся искры", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Мечущиеся искры переполнены энергией и наносят пораженным игрокам 32 ед. урона от сил природы, а также оглушают их на 6 сек."}
 MultiLanguageSpellData['ru'][267484] = {name = "Мечущиеся искры", additional_info = nil}
 MultiLanguageSpellData['ru'][267485] = {name = "Destruction FX", additional_info = "Радиус действия: 200 м\nМгновенное действие\n[q]Бомбардирует строение противника, нанося осадный урон."}
 MultiLanguageSpellData['ru'][267486] = {name = "Зандаларское снятие шкур", additional_info = "Применение: 2 сек\nТребуется: Перчатки\nИнструменты: Рунический жезл для наложения чар\nИнгредиенты:\nСумеречная пыль (5)\n[q]Наложение на перчатки чар, повышающих скорость снятия шкур в Кул-Тирасе и Зандаларе.\nПрофессия:\nналожение чар Battle for Azeroth (1)\nУчитель:\nзаклинательница Куинни\nЗона:\nЗулдазар\nЦена:\n10"}
@@ -38559,7 +38558,7 @@ MultiLanguageSpellData['ru'][268846] = {name = "Клинок эха", additional
 MultiLanguageSpellData['ru'][268847] = {name = "Исчезновение Телии", additional_info = nil}
 MultiLanguageSpellData['ru'][268848] = {name = "Омолаживающее дыхание", additional_info = "Мгновенное действие\n[q]Вы восполняете 11% здоровья и маны раз в 2 сек."}
 MultiLanguageSpellData['ru'][268850] = {name = "Отнести контейнер", additional_info = nil}
-MultiLanguageSpellData['ru'][268851] = {name = "Щит молний", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9784 ед. урона от сил природы в атакующих."}
+MultiLanguageSpellData['ru'][268851] = {name = "Щит молний", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9792 ед. урона от сил природы в атакующих."}
 MultiLanguageSpellData['ru'][268852] = {name = "Универсальная навигация", additional_info = "Применение: 2 сек\nИнструменты: Рунический жезл для наложения чар\nИнгредиенты:\nТеневой осколок (8), Сумеречная пыль (20), Затуманенный кристалл\n[q]Применяет к оружию постоянные чары, иногда повышающие универсальность на 15 на 30 сек. Суммируется до 5 раз. После суммирования 5 раз все эффекты поглощаются и универсальность повышается на 179 на 10 сек. Не действует на предметы выше 376-го уровня.\nПрофессия:\nналожение чар Battle for Azeroth (60)\nУчитель:\nзаклинательница Куинни\nЗона:\nЗулдазар\nЦена:\n2\n50"}
 MultiLanguageSpellData['ru'][268853] = {name = "Клон из порченой крови", additional_info = nil}
 MultiLanguageSpellData['ru'][268854] = {name = "Универсальная навигация", additional_info = "Мгновенное действие\n[q]Применяет к оружию постоянные чары, иногда повышающие универсальность на 15 на 30 сек. Суммируется до 5 раз. После суммирования 5 раз все эффекты поглощаются и универсальность повышается на 179 на 10 сек. Не действует на предметы выше 376-го уровня."}
@@ -38642,7 +38641,7 @@ MultiLanguageSpellData['ru'][268933] = {name = "Жуткий залп", addition
 MultiLanguageSpellData['ru'][268934] = {name = "Сесть", additional_info = nil}
 MultiLanguageSpellData['ru'][268936] = {name = "Сотрясающий землю прыжок", additional_info = "Мгновенное действие\n[q]Дазар прыгает к выбранному игроку, нанося всем игрокам до 16571 ед. физического урона. Чем дальше игроки находятся от основной цели, тем меньше урона они получают."}
 MultiLanguageSpellData['ru'][268937] = {name = "First Mate Jamboya Spawn - Treasure Check", additional_info = nil}
-MultiLanguageSpellData['ru'][268938] = {name = "Щит молний", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9784 ед. урона от сил природы в атакующих."}
+MultiLanguageSpellData['ru'][268938] = {name = "Щит молний", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9792 ед. урона от сил природы в атакующих."}
 MultiLanguageSpellData['ru'][268939] = {name = "Quartermaster Tulmac Spawn - Treasure Check", additional_info = nil}
 MultiLanguageSpellData['ru'][268940] = {name = "Жуткий залп", additional_info = nil}
 MultiLanguageSpellData['ru'][268941] = {name = "Jukanga the Snitch Spawn - Treasure Check", additional_info = nil}
@@ -42577,7 +42576,7 @@ MultiLanguageSpellData['ru'][273407] = {name = "Intro Conversation", additional_
 MultiLanguageSpellData['ru'][273408] = {name = "Телепортация в долину Штормов, Крепость Морского Дозора", additional_info = nil}
 MultiLanguageSpellData['ru'][273409] = {name = "Предвестие бури", additional_info = "[q0]Сила азерита\n[q]Неистовство\n Пока действует \"Вихрь клинков\", раз в 0.8 сек. ваша скорость передвижения повышается на 5 %, а сила – на 26 . Эффект суммируется. Время действия – 6 сек.\n\nОружие, Защита\n Пока действует \"Вихрь клинков\", раз в 1 сек. ваша скорость передвижения повышается на 5 %, а сила – на 26 . Эффект суммируется. Время действия – 6 сек."}
 MultiLanguageSpellData['ru'][273410] = {name = "Outro Conversation", additional_info = nil}
-MultiLanguageSpellData['ru'][273411] = {name = "Щит молний", additional_info = "Неограниченное расстояние\nНаправляемое (Применение: 3 сек)\n[q]Заклинатель направляет пассивную энергию вокруг себя в способность \" Щит молний \".\n\n\nЩит молний\n Неограниченное расстояние\n\nМгновенное действие Окружает босса дуговой молнией, которая отражает 9784 ед. урона от сил природы в атакующих."}
+MultiLanguageSpellData['ru'][273411] = {name = "Щит молний", additional_info = "Неограниченное расстояние\nНаправляемое (Применение: 3 сек)\n[q]Заклинатель направляет пассивную энергию вокруг себя в способность \" Щит молний \".\n\n\nЩит молний\n Неограниченное расстояние\n\nМгновенное действие Окружает босса дуговой молнией, которая отражает 9792 ед. урона от сил природы в атакующих."}
 MultiLanguageSpellData['ru'][273412] = {name = "Предвестие бури", additional_info = "[q0]Сила азерита\nМгновенное действие\n[q]Неистовство\nПока действует \"Вихрь клинков\", раз в 0.8 сек. ваша скорость передвижения повышается на 5 %, а сила – на 26 . Эффект суммируется. Время действия – 6 сек.\n\nОружие, Защита\nПока действует \"Вихрь клинков\", раз в 1 сек. ваша скорость передвижения повышается на 5 %, а сила – на 26 . Эффект суммируется. Время действия – 6 сек."}
 MultiLanguageSpellData['ru'][273413] = {name = "Остаточный азерит", additional_info = nil}
 MultiLanguageSpellData['ru'][273414] = {name = "Предвестие бури", additional_info = "Мгновенное действие\n[q]Неистовство\nПока действует \"Вихрь клинков\", раз в 0.8 сек. ваша скорость передвижения повышается на 5 %, а сила – на 26 . Эффект суммируется. Время действия – 6 сек.\n\nОружие, Защита\nПока действует \"Вихрь клинков\", раз в 1 сек. ваша скорость передвижения повышается на 5 %, а сила – на 26 . Эффект суммируется. Время действия – 6 сек."}
@@ -43430,7 +43429,7 @@ MultiLanguageSpellData['ru'][274332] = {name = "Поездка на ракете
 MultiLanguageSpellData['ru'][274333] = {name = "Постройка здания", additional_info = nil}
 MultiLanguageSpellData['ru'][274334] = {name = "Постройка здания", additional_info = nil}
 MultiLanguageSpellData['ru'][274335] = {name = "Битва лоа", additional_info = nil}
-MultiLanguageSpellData['ru'][274336] = {name = "Щит молний", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9784 ед. урона от сил природы в атакующих."}
+MultiLanguageSpellData['ru'][274336] = {name = "Щит молний", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Окружает босса дуговой молнией, которая отражает 9792 ед. урона от сил природы в атакующих."}
 MultiLanguageSpellData['ru'][274337] = {name = "Обжигающий жар", additional_info = nil}
 MultiLanguageSpellData['ru'][274338] = {name = "Взрыв пушки", additional_info = "Мгновенное действие"}
 MultiLanguageSpellData['ru'][274339] = {name = "Спринт", additional_info = "Мгновенное действие\n[q]Повышает скорость передвижения на 120% на 3 сек."}

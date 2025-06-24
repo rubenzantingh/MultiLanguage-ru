@@ -1,8 +1,8 @@
-## Interface: 110105
+## Interface: 110107
 ## Title: MultiLanguage_RU
 ## Notes: RU language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.0.19
+## Version: 1.0.20
 ## Dependencies: MultiLanguage
 
 Database/Quests/quests.lua
