@@ -16536,6 +16536,7 @@ MultiLanguageNpcData['ru'][195121] = {name = "Ленивое речное чуд
 MultiLanguageNpcData['ru'][195123] = {name = "Старое речное чудище", subname = nil}
 MultiLanguageNpcData['ru'][195124] = {name = "Proxy - Talk to Khanam Matra Sarest", subname = nil}
 MultiLanguageNpcData['ru'][195125] = {name = "Рубиновый страж неба", subname = nil}
+MultiLanguageNpcData['ru'][195126] = {name = "Kill Credit: Spear [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][195127] = {name = "Invisible Bunny", subname = nil}
 MultiLanguageNpcData['ru'][195128] = {name = "Invisible Bunny", subname = nil}
 MultiLanguageNpcData['ru'][195130] = {name = "Воин стихии огня", subname = "Проекция"}
@@ -16554,6 +16555,7 @@ MultiLanguageNpcData['ru'][195142] = {name = "Ледяной тарасекк", 
 MultiLanguageNpcData['ru'][195143] = {name = "Разведчица Томуль", subname = nil}
 MultiLanguageNpcData['ru'][195144] = {name = "Мираци", subname = nil}
 MultiLanguageNpcData['ru'][195145] = {name = "Магические сани", subname = nil}
+MultiLanguageNpcData['ru'][195146] = {name = "Лавовое гнездо", subname = nil}
 MultiLanguageNpcData['ru'][195147] = {name = "Ханам матра Сарест", subname = nil}
 MultiLanguageNpcData['ru'][195148] = {name = "Хан Тигари", subname = nil}
 MultiLanguageNpcData['ru'][195149] = {name = "Спокойный детеныш", subname = nil}
@@ -37840,7 +37842,7 @@ MultiLanguageNpcData['ru'][222752] = {name = "Сверкающий светля�
 MultiLanguageNpcData['ru'][222753] = {name = "Рассветное Пламя", subname = "Главный мышелов"}
 MultiLanguageNpcData['ru'][222754] = {name = "Дремоискрый светлячок", subname = nil}
 MultiLanguageNpcData['ru'][222755] = {name = "Злобный кровоклещ", subname = nil}
-MultiLanguageNpcData['ru'][222756] = {name = "Глубинный Скиталец – владыка пещер", subname = nil}
+MultiLanguageNpcData['ru'][222756] = {name = "Глубинный Скиталец –владыка пещер", subname = nil}
 MultiLanguageNpcData['ru'][222757] = {name = "Глинокрыл-пожиратель", subname = nil}
 MultiLanguageNpcData['ru'][222758] = {name = "Аратийский мальчик", subname = "Модели"}
 MultiLanguageNpcData['ru'][222759] = {name = "Прожорливый глинокрыл", subname = nil}

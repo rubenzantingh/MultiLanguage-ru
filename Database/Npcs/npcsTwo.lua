@@ -16032,6 +16032,7 @@ MultiLanguageNpcData['ru'][83828] = {name = "Заклинатель шипов �
 MultiLanguageNpcData['ru'][83829] = {name = "Запряженный копытень", subname = nil}
 MultiLanguageNpcData['ru'][83830] = {name = "Калган", subname = "Командир воинов Копья Войны"}
 MultiLanguageNpcData['ru'][83831] = {name = "Чернорабочий Разбитого берега", subname = nil}
+MultiLanguageNpcData['ru'][83832] = {name = "Самец ветробега", subname = nil}
 MultiLanguageNpcData['ru'][83833] = {name = "Длань Векнариуса", subname = nil}
 MultiLanguageNpcData['ru'][83834] = {name = "Гардул Ядовитый Нож", subname = nil}
 MultiLanguageNpcData['ru'][83835] = {name = "Стрелок Зашедшей Луны", subname = nil}
@@ -16047,6 +16048,7 @@ MultiLanguageNpcData['ru'][83847] = {name = "Награндский огр", sub
 MultiLanguageNpcData['ru'][83848] = {name = "Кровожадный огромес", subname = nil}
 MultiLanguageNpcData['ru'][83849] = {name = "Всадник Ша'тар", subname = nil}
 MultiLanguageNpcData['ru'][83850] = {name = "Садист из клана Изувеченной Длани", subname = nil}
+MultiLanguageNpcData['ru'][83851] = {name = "Воспеватель крови из клана Изувеченной Длани", subname = nil}
 MultiLanguageNpcData['ru'][83852] = {name = "Event Controller", subname = nil}
 MultiLanguageNpcData['ru'][83853] = {name = "Грозный ворон", subname = nil}
 MultiLanguageNpcData['ru'][83854] = {name = "Крыса из мастерской", subname = nil}

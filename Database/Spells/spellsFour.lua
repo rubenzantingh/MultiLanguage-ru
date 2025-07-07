@@ -14180,6 +14180,7 @@ MultiLanguageSpellData['ru'][239254] = {name = "Пылающая сфера", ad
 MultiLanguageSpellData['ru'][239255] = {name = "Play Scene", additional_info = nil}
 MultiLanguageSpellData['ru'][239256] = {name = "Пылающая сфера", additional_info = nil}
 MultiLanguageSpellData['ru'][239257] = {name = "Platform Jump - East > South", additional_info = nil}
+MultiLanguageSpellData['ru'][239258] = {name = "Platform Jump - North > West", additional_info = nil}
 MultiLanguageSpellData['ru'][239259] = {name = "Platform Jump - West > North", additional_info = nil}
 MultiLanguageSpellData['ru'][239260] = {name = "Platform Jump - West > South", additional_info = nil}
 MultiLanguageSpellData['ru'][239261] = {name = "Platform Jump - South > West", additional_info = nil}
