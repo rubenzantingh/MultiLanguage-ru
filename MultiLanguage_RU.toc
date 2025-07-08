@@ -1,11 +1,14 @@
-## Interface: 40402
+## Interface: 50500
 ## Title: MultiLanguage_RU
 ## Notes: RU language for the MultiLanguage addon
 ## Author: Ruben Zantingh
-## Version: 1.1.13
+## Version: 1.0.0
 ## Dependencies: MultiLanguage
 
 Database/Npcs/npcs.lua
+Database/Npcs/npcsOne.lua
+Database/Npcs/npcsTwo.lua
+
 Database/Quests/quests.lua
 
 Database/Items/items.lua
