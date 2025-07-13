@@ -1,7 +1,7 @@
 # MultiLanguage Russian language pack
 
 ## Description
-This is the Russian (RU) language pack for the Wrath of the Lich King version of the [MultiLanguage addon](https://www.curseforge.com/wow/addons/multilanguage). It requires the base addon to work. Installing it adds the Russian option within the addon configuration. This language pack is not required for the classic version of the game, only for Wrath of the Lich King.
+This is the Russian (RU) language pack of the [MultiLanguage addon](https://www.curseforge.com/wow/addons/multilanguage). It requires the base addon to work. Installing it adds the Russian option within the addon configuration. This language pack is not required for the classic version of the game.
 
 ## Download
 The [Curseforge Client](https://curseforge.overwolf.com/) can be used to find and download this addon once it has been listed. It can also be found on its [Curseforge page](https://www.curseforge.com/wow/addons/multilanguage-russian-language-pack).
