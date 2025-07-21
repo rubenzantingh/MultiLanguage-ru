@@ -31699,7 +31699,7 @@ MultiLanguageNpcData['ru'][156796] = {name = "Дикий эфиреныш", subn
 MultiLanguageNpcData['ru'][156797] = {name = "Kill Credit - Control Point", subname = nil}
 MultiLanguageNpcData['ru'][156798] = {name = "Kill Credit - Control Point Three", subname = nil}
 MultiLanguageNpcData['ru'][156799] = {name = "Генри Гэррик", subname = nil}
-MultiLanguageNpcData['ru'][156800] = {name = "Интендант Рихтер", subname = "Припасы"}
+MultiLanguageNpcData['ru'][156800] = {name = "Интендант Рихтер", subname = "Припасы и ремонт"}
 MultiLanguageNpcData['ru'][156801] = {name = "Рядовой Коул", subname = nil}
 MultiLanguageNpcData['ru'][156802] = {name = "Руническая бомба", subname = nil}
 MultiLanguageNpcData['ru'][156803] = {name = "Алария", subname = nil}
