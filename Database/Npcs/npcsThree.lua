@@ -23308,7 +23308,6 @@ MultiLanguageNpcData['ru'][147325] = {name = "Рокхан", subname = nil}
 MultiLanguageNpcData['ru'][147326] = {name = "Пленный тортоллан", subname = nil}
 MultiLanguageNpcData['ru'][147328] = {name = "War Supplies Destroyed", subname = nil}
 MultiLanguageNpcData['ru'][147329] = {name = "Припасы наг", subname = nil}
-MultiLanguageNpcData['ru'][147331] = {name = "Banners Burned", subname = nil}
 MultiLanguageNpcData['ru'][147332] = {name = "Камнемаг Ссра'весс", subname = nil}
 MultiLanguageNpcData['ru'][147333] = {name = "Боевой стяг наг", subname = nil}
 MultiLanguageNpcData['ru'][147334] = {name = "Королевский страж", subname = nil}
