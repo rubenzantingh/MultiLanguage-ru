@@ -10516,7 +10516,7 @@ MultiLanguageNpcData['ru'][16882] = {name = "Цифровая панель", sub
 MultiLanguageNpcData['ru'][16883] = {name = "Транспорт Сайласа", subname = nil}
 MultiLanguageNpcData['ru'][16884] = {name = "Боевой конь", subname = nil}
 MultiLanguageNpcData['ru'][16885] = {name = "Амитиэль Странница Туманов", subname = nil}
-MultiLanguageNpcData['ru'][16886] = {name = "Аратор Искупитель", subname = nil}
+MultiLanguageNpcData['ru'][16886] = {name = "Аратор", subname = nil}
 MultiLanguageNpcData['ru'][16887] = {name = "Око Оплота Чести", subname = nil}
 MultiLanguageNpcData['ru'][16888] = {name = "Махурам Крепкое Копыто", subname = nil}
 MultiLanguageNpcData['ru'][16889] = {name = "Участник праздника в Штормграде", subname = nil}
@@ -40756,7 +40756,7 @@ MultiLanguageNpcData['ru'][54439] = {name = "Аватара Риолита", sub
 MultiLanguageNpcData['ru'][54440] = {name = "Аватара Шэннокса", subname = nil}
 MultiLanguageNpcData['ru'][54441] = {name = "Чудотворец Вашрин", subname = "Чародей-кузнец"}
 MultiLanguageNpcData['ru'][54442] = {name = "Исказитель пространства Гашем", subname = "Трансмогрификатор"}
-MultiLanguageNpcData['ru'][54443] = {name = "Смотритель хранилища Ражид", subname = "Хранилище Бездны"}
+MultiLanguageNpcData['ru'][54443] = {name = "Смотритель хранилища Ражид", subname = nil}
 MultiLanguageNpcData['ru'][54444] = {name = "Гнолл ярмарки Новолуния", subname = nil}
 MultiLanguageNpcData['ru'][54445] = {name = "Эхо Джайны", subname = nil}
 MultiLanguageNpcData['ru'][54446] = {name = "Уголь пламенных недр", subname = nil}
@@ -40767,7 +40767,7 @@ MultiLanguageNpcData['ru'][54466] = {name = "Гнолл-малыш с ярмар
 MultiLanguageNpcData['ru'][54467] = {name = "Смерч", subname = nil}
 MultiLanguageNpcData['ru'][54470] = {name = "Плод желаний", subname = nil}
 MultiLanguageNpcData['ru'][54471] = {name = "Чудотворец Заджир", subname = "Чародей-кузнец"}
-MultiLanguageNpcData['ru'][54472] = {name = "Смотритель хранилища Джазра", subname = "Хранилище Бездны"}
+MultiLanguageNpcData['ru'][54472] = {name = "Смотритель хранилища Джазра", subname = nil}
 MultiLanguageNpcData['ru'][54473] = {name = "Исказитель пространства Душар", subname = "Трансмогрификатор"}
 MultiLanguageNpcData['ru'][54474] = {name = "Туман времени", subname = nil}
 MultiLanguageNpcData['ru'][54475] = {name = "Краб", subname = nil}
@@ -48017,7 +48017,7 @@ MultiLanguageNpcData['ru'][64570] = {name = "Тань Крепкая Удочк�
 MultiLanguageNpcData['ru'][64571] = {name = "Колодец Света", subname = nil}
 MultiLanguageNpcData['ru'][64572] = {name = "Сара Финкльшпунтик", subname = "Наставница боевых питомцев"}
 MultiLanguageNpcData['ru'][64573] = {name = "Исказитель пространства Рамахеш", subname = "Трансмогрификатор"}
-MultiLanguageNpcData['ru'][64574] = {name = "Смотритель хранилища Эдуин", subname = "Хранилище Бездны"}
+MultiLanguageNpcData['ru'][64574] = {name = "Смотритель хранилища Эдуин", subname = nil}
 MultiLanguageNpcData['ru'][64575] = {name = "Чань Хой-Сань", subname = "Куньлайский беженец"}
 MultiLanguageNpcData['ru'][64576] = {name = "Бандит", subname = "Боевой питомец"}
 MultiLanguageNpcData['ru'][64577] = {name = "Скрипач", subname = "Боевой питомец"}
