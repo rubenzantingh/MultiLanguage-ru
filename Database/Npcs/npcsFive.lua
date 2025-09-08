@@ -115,7 +115,7 @@ MultiLanguageNpcData['ru'][233316] = {name = "Тенегорнский крес�
 MultiLanguageNpcData['ru'][233317] = {name = "Тенегорнская крестьянка", subname = nil}
 MultiLanguageNpcData['ru'][233318] = {name = "CREDIT: Patrons Served", subname = nil}
 MultiLanguageNpcData['ru'][233319] = {name = "Мазь от блох", subname = nil}
-MultiLanguageNpcData['ru'][233320] = {name = "Throw Shrinking Device", subname = nil}
+MultiLanguageNpcData['ru'][233320] = {name = "Бросок уменьшающего устройства", subname = nil}
 MultiLanguageNpcData['ru'][233322] = {name = "Дэвенпорт Силли", subname = "Несравненный художник"}
 MultiLanguageNpcData['ru'][233323] = {name = "Стойкий защитник экспедиции", subname = nil}
 MultiLanguageNpcData['ru'][233324] = {name = "Премиальное средство наблюдения ПТЕНЦ", subname = nil}
@@ -137,7 +137,7 @@ MultiLanguageNpcData['ru'][233343] = {name = "Разведчица бурь Ко
 MultiLanguageNpcData['ru'][233344] = {name = "Game Board [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][233345] = {name = "Медовый слизнюк", subname = nil}
 MultiLanguageNpcData['ru'][233346] = {name = "Шипохвост-матриарх", subname = nil}
-MultiLanguageNpcData['ru'][233347] = {name = "Thorntail Matriarch", subname = nil}
+MultiLanguageNpcData['ru'][233347] = {name = "Шипохвост-матриарх", subname = nil}
 MultiLanguageNpcData['ru'][233348] = {name = "Инвазивный гнездовик", subname = nil}
 MultiLanguageNpcData['ru'][233351] = {name = "Ошеломленный зритель", subname = nil}
 MultiLanguageNpcData['ru'][233352] = {name = "Герой-паладин", subname = nil}
@@ -416,7 +416,9 @@ MultiLanguageNpcData['ru'][233813] = {name = "Опасный объект исс
 MultiLanguageNpcData['ru'][233814] = {name = "Сплетенный страж", subname = nil}
 MultiLanguageNpcData['ru'][233815] = {name = "Ткан'итар", subname = nil}
 MultiLanguageNpcData['ru'][233816] = {name = "Стражница душ Наазиндри", subname = nil}
-MultiLanguageNpcData['ru'][233824] = {name = "Dimensius", subname = nil}
+MultiLanguageNpcData['ru'][233817] = {name = "Ткач горна Араз", subname = nil}
+MultiLanguageNpcData['ru'][233823] = {name = "Королевский безднокрыл", subname = nil}
+MultiLanguageNpcData['ru'][233824] = {name = "Пространствус", subname = nil}
 MultiLanguageNpcData['ru'][233825] = {name = "Salhadaar", subname = nil}
 MultiLanguageNpcData['ru'][233826] = {name = "Сбежавший объект исследований", subname = nil}
 MultiLanguageNpcData['ru'][233827] = {name = "Сточный скользун", subname = nil}
@@ -551,7 +553,7 @@ MultiLanguageNpcData['ru'][234037] = {name = "Вез'окк Беспросвет
 MultiLanguageNpcData['ru'][234038] = {name = "Рексар", subname = nil}
 MultiLanguageNpcData['ru'][234039] = {name = "Клапан давления", subname = nil}
 MultiLanguageNpcData['ru'][234040] = {name = "Элементаль забвения", subname = nil}
-MultiLanguageNpcData['ru'][234041] = {name = "Forge Sentinel", subname = nil}
+MultiLanguageNpcData['ru'][234041] = {name = "Страж горна", subname = nil}
 MultiLanguageNpcData['ru'][234042] = {name = "Сломленный гоблин из картеля Трюмных Вод", subname = nil}
 MultiLanguageNpcData['ru'][234043] = {name = "Скучающий юнец", subname = "Сотрудник магазина"}
 MultiLanguageNpcData['ru'][234044] = {name = "Противная крыса", subname = nil}
@@ -560,7 +562,7 @@ MultiLanguageNpcData['ru'][234046] = {name = "Грязный ракан", subnam
 MultiLanguageNpcData['ru'][234047] = {name = "Рензик Нож", subname = "Агент ШРУ"}
 MultiLanguageNpcData['ru'][234048] = {name = "Монти Газлоу", subname = "Торговый принц картеля Трюмных Вод"}
 MultiLanguageNpcData['ru'][234050] = {name = "Солдат из Темной Стражи", subname = nil}
-MultiLanguageNpcData['ru'][234051] = {name = "Netherfang Soulbarker", subname = nil}
+MultiLanguageNpcData['ru'][234051] = {name = "Брехливый пустоклык", subname = nil}
 MultiLanguageNpcData['ru'][234055] = {name = "Вымокший в море скелет", subname = nil}
 MultiLanguageNpcData['ru'][234056] = {name = "Лорд Ибелин Рэдмур", subname = "Частный дознаватель"}
 MultiLanguageNpcData['ru'][234057] = {name = "Джайаан", subname = nil}
@@ -594,7 +596,7 @@ MultiLanguageNpcData['ru'][234102] = {name = "Скрытнокоптер кар�
 MultiLanguageNpcData['ru'][234103] = {name = "Инспектор из картеля Трюмных Вод", subname = nil}
 MultiLanguageNpcData['ru'][234105] = {name = "Застрявший гоблин", subname = nil}
 MultiLanguageNpcData['ru'][234106] = {name = "Странник", subname = nil}
-MultiLanguageNpcData['ru'][234107] = {name = "Thorntail Kit", subname = nil}
+MultiLanguageNpcData['ru'][234107] = {name = "Детеныш шипохвоста", subname = nil}
 MultiLanguageNpcData['ru'][234109] = {name = "Вход в мастерскую", subname = nil}
 MultiLanguageNpcData['ru'][234111] = {name = "Ом'раджула", subname = nil}
 MultiLanguageNpcData['ru'][234112] = {name = "Наджи", subname = nil}
@@ -779,7 +781,7 @@ MultiLanguageNpcData['ru'][234349] = {name = "Гора ХЛАМа", subname = ni
 MultiLanguageNpcData['ru'][234350] = {name = "Гора ХЛАМа", subname = nil}
 MultiLanguageNpcData['ru'][234351] = {name = "Чудо-шар", subname = nil}
 MultiLanguageNpcData['ru'][234352] = {name = "Shocklight Barrier", subname = nil}
-MultiLanguageNpcData['ru'][234353] = {name = "Gharrli", subname = "[Assistant Sniffmaster]"}
+MultiLanguageNpcData['ru'][234353] = {name = "Гаррли", subname = "Младший нюхмейстер"}
 MultiLanguageNpcData['ru'][234354] = {name = "Работник персонала", subname = nil}
 MultiLanguageNpcData['ru'][234355] = {name = "Бранн Бронзобород", subname = nil}
 MultiLanguageNpcData['ru'][234356] = {name = "Бур-босс", subname = "Важная шишка"}
@@ -870,8 +872,8 @@ MultiLanguageNpcData['ru'][234467] = {name = "Потрошитель Бездн�
 MultiLanguageNpcData['ru'][234469] = {name = "Ravenous Crawler", subname = nil}
 MultiLanguageNpcData['ru'][234470] = {name = "Jabbing Flyer", subname = nil}
 MultiLanguageNpcData['ru'][234471] = {name = "Spawn", subname = nil}
-MultiLanguageNpcData['ru'][234475] = {name = "Slateback Cub", subname = nil}
-MultiLanguageNpcData['ru'][234476] = {name = "Slateback Cub", subname = nil}
+MultiLanguageNpcData['ru'][234475] = {name = "Детеныш сланцеспина", subname = nil}
+MultiLanguageNpcData['ru'][234476] = {name = "Детеныш сланцеспина", subname = nil}
 MultiLanguageNpcData['ru'][234477] = {name = "Рыночный страж", subname = nil}
 MultiLanguageNpcData['ru'][234478] = {name = "Пространствус", subname = nil}
 MultiLanguageNpcData['ru'][234479] = {name = "ГОЛЕМ-младший", subname = nil}
@@ -879,7 +881,7 @@ MultiLanguageNpcData['ru'][234480] = {name = "МАГНО", subname = nil}
 MultiLanguageNpcData['ru'][234481] = {name = "Минное поле", subname = nil}
 MultiLanguageNpcData['ru'][234483] = {name = "Помощница Консорциума", subname = nil}
 MultiLanguageNpcData['ru'][234484] = {name = "Void Presence", subname = nil}
-MultiLanguageNpcData['ru'][234485] = {name = "Slateback Roamer", subname = nil}
+MultiLanguageNpcData['ru'][234485] = {name = "Сланцеспин-бегун", subname = nil}
 MultiLanguageNpcData['ru'][234490] = {name = "Сланцеспин-бегун", subname = nil}
 MultiLanguageNpcData['ru'][234495] = {name = "Мехмастер Замыкалец", subname = "Главный инженер гномов"}
 MultiLanguageNpcData['ru'][234496] = {name = "Джила Закоротка", subname = "Ассистентка мехмастера"}
@@ -888,7 +890,7 @@ MultiLanguageNpcData['ru'][234498] = {name = "Бочка со взрывчатк
 MultiLanguageNpcData['ru'][234499] = {name = "Джованте", subname = "Неожиданное испытание"}
 MultiLanguageNpcData['ru'][234501] = {name = "\"Пронзатель небес\"", subname = nil}
 MultiLanguageNpcData['ru'][234504] = {name = "Властитель преисподней", subname = nil}
-MultiLanguageNpcData['ru'][234506] = {name = "Slateback Roamer", subname = nil}
+MultiLanguageNpcData['ru'][234506] = {name = "Сланцеспин-бегун", subname = nil}
 MultiLanguageNpcData['ru'][234511] = {name = "\"Пронзатель небес\"", subname = nil}
 MultiLanguageNpcData['ru'][234517] = {name = "Зигги Мару", subname = "Королева Донна"}
 MultiLanguageNpcData['ru'][234523] = {name = "Пейт", subname = nil}
@@ -970,10 +972,10 @@ MultiLanguageNpcData['ru'][234634] = {name = "Клапан давления", su
 MultiLanguageNpcData['ru'][234637] = {name = "Нарате", subname = nil}
 MultiLanguageNpcData['ru'][234639] = {name = "Тренировочная мишень", subname = nil}
 MultiLanguageNpcData['ru'][234640] = {name = "Гущекаплий", subname = nil}
-MultiLanguageNpcData['ru'][234643] = {name = "Om'torid", subname = nil}
-MultiLanguageNpcData['ru'][234644] = {name = "Narathe", subname = nil}
+MultiLanguageNpcData['ru'][234643] = {name = "Ом'торид", subname = nil}
+MultiLanguageNpcData['ru'][234644] = {name = "Нарате", subname = nil}
 MultiLanguageNpcData['ru'][234645] = {name = "Лаш'ир", subname = nil}
-MultiLanguageNpcData['ru'][234646] = {name = "Jayaan", subname = nil}
+MultiLanguageNpcData['ru'][234646] = {name = "Джайаан", subname = nil}
 MultiLanguageNpcData['ru'][234650] = {name = "Аллерия Ветрокрылая", subname = nil}
 MultiLanguageNpcData['ru'][234652] = {name = "Странник", subname = nil}
 MultiLanguageNpcData['ru'][234654] = {name = "Джила Закоротка", subname = "Ассистентка мехмастера"}
@@ -1321,7 +1323,7 @@ MultiLanguageNpcData['ru'][235143] = {name = "Преследователь ог�
 MultiLanguageNpcData['ru'][235144] = {name = "Зо'шуульский разведчик", subname = nil}
 MultiLanguageNpcData['ru'][235145] = {name = "Кучка пепла", subname = nil}
 MultiLanguageNpcData['ru'][235147] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
-MultiLanguageNpcData['ru'][235148] = {name = "Lapbug Skitterer", subname = nil}
+MultiLanguageNpcData['ru'][235148] = {name = "Букаш-быстролап", subname = nil}
 MultiLanguageNpcData['ru'][235149] = {name = "Mishi", subname = "[Lorewalker Cho's Companion]"}
 MultiLanguageNpcData['ru'][235150] = {name = "Lord Walden", subname = nil}
 MultiLanguageNpcData['ru'][235151] = {name = "К'арешский элементаль", subname = nil}
@@ -1635,6 +1637,7 @@ MultiLanguageNpcData['ru'][235848] = {name = "Наэлектризованная
 MultiLanguageNpcData['ru'][235849] = {name = "Костолом картеля Черноводья", subname = "Пираты Черноводья"}
 MultiLanguageNpcData['ru'][235851] = {name = "Синий", subname = nil}
 MultiLanguageNpcData['ru'][235852] = {name = "Бертрам Ячменобород", subname = "Посланник Альянса"}
+MultiLanguageNpcData['ru'][235853] = {name = "Смотритель путевых врат", subname = nil}
 MultiLanguageNpcData['ru'][235854] = {name = "Оранжевый", subname = nil}
 MultiLanguageNpcData['ru'][235855] = {name = "Фиолетовый", subname = nil}
 MultiLanguageNpcData['ru'][235856] = {name = "Красный", subname = nil}
@@ -1707,7 +1710,7 @@ MultiLanguageNpcData['ru'][236058] = {name = "Дозорная Ду'уна", sub
 MultiLanguageNpcData['ru'][236059] = {name = "Техник Яркошпунт", subname = nil}
 MultiLanguageNpcData['ru'][236060] = {name = "Техник Труборез", subname = nil}
 MultiLanguageNpcData['ru'][236061] = {name = "Техник Полуоська", subname = nil}
-MultiLanguageNpcData['ru'][236062] = {name = "Phase Crystal", subname = nil}
+MultiLanguageNpcData['ru'][236062] = {name = "Фазовый кристалл", subname = nil}
 MultiLanguageNpcData['ru'][236072] = {name = "Освобожденная сущность", subname = nil}
 MultiLanguageNpcData['ru'][236083] = {name = "Зек'ул Кораблекрушитель", subname = nil}
 MultiLanguageNpcData['ru'][236086] = {name = "Приспешник-ловчий", subname = nil}
@@ -1912,7 +1915,7 @@ MultiLanguageNpcData['ru'][236844] = {name = "Mana Ray", subname = "[T0 (0.5/0.5
 MultiLanguageNpcData['ru'][236845] = {name = "Гальд Малодрев", subname = "Продавец бонсаев"}
 MultiLanguageNpcData['ru'][236846] = {name = "Хеминг Эрнестуэй", subname = nil}
 MultiLanguageNpcData['ru'][236847] = {name = "Элох Скользкорук", subname = "Метатель слизней"}
-MultiLanguageNpcData['ru'][236848] = {name = "Curious Necroray", subname = nil}
+MultiLanguageNpcData['ru'][236848] = {name = "Любопытный некроскат", subname = nil}
 MultiLanguageNpcData['ru'][236849] = {name = "Гриксит Грубослов", subname = "Модная одежда по сниженной цене"}
 MultiLanguageNpcData['ru'][236851] = {name = "K'aresh Elemental", subname = "[T1 (1/1)]"}
 MultiLanguageNpcData['ru'][236852] = {name = "K'aresh Elemental", subname = "[T2 (2/1.2)]"}
@@ -1922,7 +1925,7 @@ MultiLanguageNpcData['ru'][236856] = {name = "Житель Тазавеша", su
 MultiLanguageNpcData['ru'][236865] = {name = "Крис Сребрострелка", subname = "Продавец кристаллов"}
 MultiLanguageNpcData['ru'][236868] = {name = "Шелдон Пальцещип", subname = "Кработорговец"}
 MultiLanguageNpcData['ru'][236871] = {name = "Рензик Нож", subname = "Агент ШРУ"}
-MultiLanguageNpcData['ru'][236879] = {name = "Congealed Lump", subname = nil}
+MultiLanguageNpcData['ru'][236879] = {name = "Загустевший ком", subname = nil}
 MultiLanguageNpcData['ru'][236880] = {name = "Лазутчик из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][236881] = {name = "Потрошитель Бездны из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][236882] = {name = "Сумеречный странник из Темной Стражи", subname = nil}
@@ -1932,7 +1935,7 @@ MultiLanguageNpcData['ru'][236886] = {name = "Парящая жуть", subname 
 MultiLanguageNpcData['ru'][236890] = {name = "Хеминг Эрнестуэй", subname = nil}
 MultiLanguageNpcData['ru'][236892] = {name = "Алчный краб", subname = nil}
 MultiLanguageNpcData['ru'][236895] = {name = "Неисправный толпогон", subname = nil}
-MultiLanguageNpcData['ru'][236900] = {name = "Curious Necroray", subname = nil}
+MultiLanguageNpcData['ru'][236900] = {name = "Любопытный некроскат", subname = nil}
 MultiLanguageNpcData['ru'][236907] = {name = "Адар Вспышка Сумерек", subname = "Иллидари"}
 MultiLanguageNpcData['ru'][236914] = {name = "Кровопийца", subname = nil}
 MultiLanguageNpcData['ru'][236915] = {name = "Защитник из картеля Мрачных Минеров", subname = nil}
@@ -1951,19 +1954,19 @@ MultiLanguageNpcData['ru'][236935] = {name = "Void Creeper", subname = "[T1 (1/1
 MultiLanguageNpcData['ru'][236936] = {name = "Сочащийся фрагмент", subname = nil}
 MultiLanguageNpcData['ru'][236942] = {name = "Бур-босс", subname = "Важная шишка"}
 MultiLanguageNpcData['ru'][236946] = {name = "Ползун из пустошей", subname = nil}
-MultiLanguageNpcData['ru'][236947] = {name = "Burrowing Creeper", subname = nil}
+MultiLanguageNpcData['ru'][236947] = {name = "Ползун-землерой", subname = nil}
 MultiLanguageNpcData['ru'][236948] = {name = "Бур-босс", subname = "Важная шишка"}
 MultiLanguageNpcData['ru'][236950] = {name = "Гизл Гигабжик", subname = nil}
 MultiLanguageNpcData['ru'][236951] = {name = "Механик из картеля Трюмных Вод", subname = nil}
 MultiLanguageNpcData['ru'][236952] = {name = "Крошшер картеля Трюмных Вод", subname = nil}
-MultiLanguageNpcData['ru'][236953] = {name = "Tranquil Necroray", subname = nil}
+MultiLanguageNpcData['ru'][236953] = {name = "Безмятежный некроскат", subname = nil}
 MultiLanguageNpcData['ru'][236956] = {name = "Шахтер картеля Трюмных Вод", subname = nil}
 MultiLanguageNpcData['ru'][236957] = {name = "Механик из картеля Трюмных Вод", subname = nil}
 MultiLanguageNpcData['ru'][236962] = {name = "Kill Credit - Soul Shard - Visual", subname = nil}
-MultiLanguageNpcData['ru'][236963] = {name = "Necroray Pup", subname = nil}
+MultiLanguageNpcData['ru'][236963] = {name = "Детеныш некроската", subname = nil}
 MultiLanguageNpcData['ru'][236966] = {name = "Загадочная сфера", subname = nil}
-MultiLanguageNpcData['ru'][236976] = {name = "Necroray Pup", subname = nil}
-MultiLanguageNpcData['ru'][236977] = {name = "Necroray Pup", subname = nil}
+MultiLanguageNpcData['ru'][236976] = {name = "Детеныш некроската", subname = nil}
+MultiLanguageNpcData['ru'][236977] = {name = "Детеныш некроската", subname = nil}
 MultiLanguageNpcData['ru'][236980] = {name = "Аллерия Ветрокрылая", subname = nil}
 MultiLanguageNpcData['ru'][236982] = {name = "Солдат из картеля Мрачных Минеров", subname = nil}
 MultiLanguageNpcData['ru'][236988] = {name = "Невидимый ловчий", subname = nil}
@@ -1971,7 +1974,7 @@ MultiLanguageNpcData['ru'][236990] = {name = "Куча хлама Джани", s
 MultiLanguageNpcData['ru'][236992] = {name = "Житель Опорного пункта", subname = nil}
 MultiLanguageNpcData['ru'][236995] = {name = "Прожорливый разрушитель", subname = nil}
 MultiLanguageNpcData['ru'][237047] = {name = "Карло Мехоскряб", subname = "Представитель ХЛАМа"}
-MultiLanguageNpcData['ru'][237066] = {name = "Congealed Lump", subname = nil}
+MultiLanguageNpcData['ru'][237066] = {name = "Загустевший ком", subname = nil}
 MultiLanguageNpcData['ru'][237071] = {name = "Farena", subname = nil}
 MultiLanguageNpcData['ru'][237072] = {name = "Lash'ir", subname = nil}
 MultiLanguageNpcData['ru'][237073] = {name = "Брошенная банка", subname = nil}
@@ -1985,6 +1988,7 @@ MultiLanguageNpcData['ru'][237092] = {name = "Targeting Bunny", subname = nil}
 MultiLanguageNpcData['ru'][237103] = {name = "Брошенная банка", subname = nil}
 MultiLanguageNpcData['ru'][237107] = {name = "БББФГ Кизы", subname = nil}
 MultiLanguageNpcData['ru'][237109] = {name = "Агент обслуживания клиентов Галладжио", subname = nil}
+MultiLanguageNpcData['ru'][237132] = {name = "Техномант из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][237192] = {name = "Мегаусиленный техник", subname = "Приспешники Галливикса"}
 MultiLanguageNpcData['ru'][237193] = {name = "Певчая искусительница", subname = nil}
 MultiLanguageNpcData['ru'][237194] = {name = "Хромовый король Галливикс", subname = nil}
@@ -2212,23 +2216,23 @@ MultiLanguageNpcData['ru'][237915] = {name = "Баллиста суреки", su
 MultiLanguageNpcData['ru'][237917] = {name = "Rod of Variables", subname = nil}
 MultiLanguageNpcData['ru'][237918] = {name = "Поцарапанная миска", subname = nil}
 MultiLanguageNpcData['ru'][237919] = {name = "Очарованная серенадой крыса", subname = nil}
-MultiLanguageNpcData['ru'][237920] = {name = "Zone Stalker", subname = nil}
+MultiLanguageNpcData['ru'][237920] = {name = "Ловчий зоны", subname = nil}
 MultiLanguageNpcData['ru'][237921] = {name = "Очарованная серенадой крыса", subname = nil}
 MultiLanguageNpcData['ru'][237922] = {name = "Очарованная серенадой крыса", subname = nil}
 MultiLanguageNpcData['ru'][237923] = {name = "Очарованная серенадой крыса", subname = nil}
-MultiLanguageNpcData['ru'][237925] = {name = "Lassoed Necroray", subname = nil}
+MultiLanguageNpcData['ru'][237925] = {name = "Пойманный некроскат", subname = nil}
 MultiLanguageNpcData['ru'][237926] = {name = "Эйтригг", subname = nil}
 MultiLanguageNpcData['ru'][237927] = {name = "Изгоняющая зона", subname = nil}
 MultiLanguageNpcData['ru'][237931] = {name = "Цель луча", subname = nil}
 MultiLanguageNpcData['ru'][237932] = {name = "Осадный быстролап", subname = nil}
-MultiLanguageNpcData['ru'][237933] = {name = "Lassoed Necroray", subname = nil}
+MultiLanguageNpcData['ru'][237933] = {name = "Пойманный некроскат", subname = nil}
 MultiLanguageNpcData['ru'][237934] = {name = "Каджамитовый острозуб", subname = nil}
 MultiLanguageNpcData['ru'][237935] = {name = "Сдавать сюда", subname = nil}
 MultiLanguageNpcData['ru'][237936] = {name = "Энергетический резчик", subname = nil}
 MultiLanguageNpcData['ru'][237943] = {name = "Игровой автомат", subname = nil}
 MultiLanguageNpcData['ru'][237948] = {name = "Горн вычислений", subname = nil}
-MultiLanguageNpcData['ru'][237951] = {name = "Zooming Necroray", subname = nil}
-MultiLanguageNpcData['ru'][237954] = {name = "Zooming Necroray", subname = nil}
+MultiLanguageNpcData['ru'][237951] = {name = "Неугомонный некроскат", subname = nil}
+MultiLanguageNpcData['ru'][237954] = {name = "Неугомонный некроскат", subname = nil}
 MultiLanguageNpcData['ru'][237955] = {name = "Графический эффект энергетического резчика – ловчий", subname = nil}
 MultiLanguageNpcData['ru'][237963] = {name = "Стромгардский маг", subname = nil}
 MultiLanguageNpcData['ru'][237967] = {name = "Разряженная гигабомба", subname = nil}
@@ -2264,16 +2268,16 @@ MultiLanguageNpcData['ru'][238012] = {name = "Капитан Родерик Бр
 MultiLanguageNpcData['ru'][238013] = {name = "KC: Free Player [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][238014] = {name = "Капитан Родерик Брюстон", subname = nil}
 MultiLanguageNpcData['ru'][238016] = {name = "Ба'ет", subname = nil}
-MultiLanguageNpcData['ru'][238021] = {name = "Oasis Advertiser", subname = nil}
+MultiLanguageNpcData['ru'][238021] = {name = "Рекламист \"Оазиса\"", subname = nil}
 MultiLanguageNpcData['ru'][238022] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][238023] = {name = "Помощник", subname = nil}
-MultiLanguageNpcData['ru'][238025] = {name = "Lapbug Skitterer", subname = nil}
+MultiLanguageNpcData['ru'][238025] = {name = "Букаш-быстролап", subname = nil}
 MultiLanguageNpcData['ru'][238026] = {name = "Мистер Знак", subname = "Доставка на дирижаблях инкорпорейтед"}
-MultiLanguageNpcData['ru'][238027] = {name = "Market Patron", subname = nil}
+MultiLanguageNpcData['ru'][238027] = {name = "Посетительница рынка", subname = nil}
 MultiLanguageNpcData['ru'][238028] = {name = "Осадок Бездны", subname = nil}
 MultiLanguageNpcData['ru'][238029] = {name = "КРОТ", subname = nil}
-MultiLanguageNpcData['ru'][238030] = {name = "Market Patron", subname = nil}
-MultiLanguageNpcData['ru'][238031] = {name = "Market Patron", subname = nil}
+MultiLanguageNpcData['ru'][238030] = {name = "Посетительница рынка", subname = nil}
+MultiLanguageNpcData['ru'][238031] = {name = "Посетительница рынка", subname = nil}
 MultiLanguageNpcData['ru'][238036] = {name = "Проекция Галливикса", subname = nil}
 MultiLanguageNpcData['ru'][238039] = {name = "Арати-рабочий", subname = nil}
 MultiLanguageNpcData['ru'][238045] = {name = "Атомизатор чародейской матрицы", subname = nil}
@@ -2357,15 +2361,15 @@ MultiLanguageNpcData['ru'][238155] = {name = "Сбежавшая крыса", su
 MultiLanguageNpcData['ru'][238156] = {name = "Ассистент", subname = nil}
 MultiLanguageNpcData['ru'][238158] = {name = "Дирижабль", subname = nil}
 MultiLanguageNpcData['ru'][238159] = {name = "Вонючка", subname = nil}
-MultiLanguageNpcData['ru'][238165] = {name = "Le Chef", subname = nil}
+MultiLanguageNpcData['ru'][238165] = {name = "Господин Кулинар", subname = nil}
 MultiLanguageNpcData['ru'][238168] = {name = "Песочные часы жутких видений", subname = nil}
-MultiLanguageNpcData['ru'][238172] = {name = "Sir Cuteington", subname = nil}
+MultiLanguageNpcData['ru'][238172] = {name = "Сэр Милашингтон", subname = nil}
 MultiLanguageNpcData['ru'][238173] = {name = "Acquisition Facilitator", subname = nil}
-MultiLanguageNpcData['ru'][238174] = {name = "Mysterious Myrtelle", subname = nil}
+MultiLanguageNpcData['ru'][238174] = {name = "Мистическая Миртелла", subname = nil}
 MultiLanguageNpcData['ru'][238176] = {name = "Ноггл Шаткобрус", subname = nil}
 MultiLanguageNpcData['ru'][238177] = {name = "Битисса Шаткобрус", subname = nil}
 MultiLanguageNpcData['ru'][238179] = {name = "Раззл Ноупалм", subname = "Алхимик"}
-MultiLanguageNpcData['ru'][238180] = {name = "Bosun Bonny", subname = nil}
+MultiLanguageNpcData['ru'][238180] = {name = "Боцман Бонни", subname = nil}
 MultiLanguageNpcData['ru'][238181] = {name = "Закупщик Зи'гуи", subname = nil}
 MultiLanguageNpcData['ru'][238184] = {name = "Обнаружитель Бездны", subname = nil}
 MultiLanguageNpcData['ru'][238187] = {name = "Лаш'ир", subname = nil}
@@ -2513,8 +2517,8 @@ MultiLanguageNpcData['ru'][238547] = {name = "Тень разъяренного 
 MultiLanguageNpcData['ru'][238548] = {name = "Ордер: Землерой", subname = nil}
 MultiLanguageNpcData['ru'][238549] = {name = "Горн", subname = nil}
 MultiLanguageNpcData['ru'][238550] = {name = "Сланцеспин-бегун", subname = nil}
-MultiLanguageNpcData['ru'][238551] = {name = "K'arroc", subname = nil}
-MultiLanguageNpcData['ru'][238553] = {name = "K'arroc", subname = nil}
+MultiLanguageNpcData['ru'][238551] = {name = "К'аррух", subname = nil}
+MultiLanguageNpcData['ru'][238553] = {name = "К'аррух", subname = nil}
 MultiLanguageNpcData['ru'][238557] = {name = "Умелый странник разломов", subname = nil}
 MultiLanguageNpcData['ru'][238564] = {name = "Питомец Ревилгаза", subname = "Под новым руководством"}
 MultiLanguageNpcData['ru'][238565] = {name = "Барон Ревилгаз", subname = "Торговый принц картеля Черноводья"}
@@ -2527,8 +2531,8 @@ MultiLanguageNpcData['ru'][238573] = {name = "Негэнтроп Прорыв Б
 MultiLanguageNpcData['ru'][238574] = {name = "Ученик Прорыв Бездны", subname = "Тень Прорыва Бездны"}
 MultiLanguageNpcData['ru'][238575] = {name = "Укротительница Бездны Харпра", subname = "Смотрительница стойл"}
 MultiLanguageNpcData['ru'][238576] = {name = "Маланор", subname = nil}
-MultiLanguageNpcData['ru'][238577] = {name = "Ve'nari", subname = nil}
-MultiLanguageNpcData['ru'][238580] = {name = "Ve'nari", subname = nil}
+MultiLanguageNpcData['ru'][238577] = {name = "Ве'нари", subname = nil}
+MultiLanguageNpcData['ru'][238580] = {name = "Ве'нари", subname = nil}
 MultiLanguageNpcData['ru'][238585] = {name = "Одурманенный каратель", subname = nil}
 MultiLanguageNpcData['ru'][238586] = {name = "Пылкий поклонник", subname = "Преданный фанат Пламендо"}
 MultiLanguageNpcData['ru'][238587] = {name = "Громовой поклонник", subname = "Преданный фанат Крутня"}
@@ -2536,7 +2540,7 @@ MultiLanguageNpcData['ru'][238590] = {name = "Complete [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][238591] = {name = "Зо'ног", subname = nil}
 MultiLanguageNpcData['ru'][238592] = {name = "Нетерпеливый путешественник", subname = nil}
 MultiLanguageNpcData['ru'][238596] = {name = "Бешеный клещ", subname = nil}
-MultiLanguageNpcData['ru'][238604] = {name = "Throw Shrinking Device", subname = nil}
+MultiLanguageNpcData['ru'][238604] = {name = "Бросок уменьшающего устройства", subname = nil}
 MultiLanguageNpcData['ru'][238605] = {name = "Механомиротворец", subname = nil}
 MultiLanguageNpcData['ru'][238607] = {name = "Мусорная гиена", subname = nil}
 MultiLanguageNpcData['ru'][238608] = {name = "Дрессированный падальщик", subname = nil}
@@ -2817,8 +2821,8 @@ MultiLanguageNpcData['ru'][239355] = {name = "Неприметный гобли�
 MultiLanguageNpcData['ru'][239356] = {name = "Неприметный подручный", subname = nil}
 MultiLanguageNpcData['ru'][239359] = {name = "Generic: Minimap Icon Target (Hufton)", subname = nil}
 MultiLanguageNpcData['ru'][239361] = {name = "Дейзи", subname = nil}
-MultiLanguageNpcData['ru'][239364] = {name = "Thieving Scurrier", subname = nil}
-MultiLanguageNpcData['ru'][239367] = {name = "Thieving Scurrier", subname = nil}
+MultiLanguageNpcData['ru'][239364] = {name = "Юркая крыса-воришка", subname = nil}
+MultiLanguageNpcData['ru'][239367] = {name = "Юркая крыса-воришка", subname = nil}
 MultiLanguageNpcData['ru'][239375] = {name = "Нестабильная мана", subname = nil}
 MultiLanguageNpcData['ru'][239377] = {name = "Weapon Stalker [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][239379] = {name = "Освобожденный эфириал", subname = nil}
@@ -2830,7 +2834,7 @@ MultiLanguageNpcData['ru'][239400] = {name = "Shadowed Ardent", subname = "[Orde
 MultiLanguageNpcData['ru'][239401] = {name = "Shadowed Marksman", subname = "[Order of Night]"}
 MultiLanguageNpcData['ru'][239402] = {name = "Shadowed Disciple", subname = "[Order of Night]"}
 MultiLanguageNpcData['ru'][239404] = {name = "Рывок Скверны", subname = nil}
-MultiLanguageNpcData['ru'][239408] = {name = "Void Shielded K'arroc", subname = nil}
+MultiLanguageNpcData['ru'][239408] = {name = "Укрытый Бездной к'аррух", subname = nil}
 MultiLanguageNpcData['ru'][239410] = {name = "Arcane Turbine", subname = nil}
 MultiLanguageNpcData['ru'][239412] = {name = "Пробужденный защитный механизм", subname = nil}
 MultiLanguageNpcData['ru'][239419] = {name = "Монти Газлоу", subname = "Торговый принц картеля Трюмных Вод"}
@@ -2840,6 +2844,7 @@ MultiLanguageNpcData['ru'][239445] = {name = "Пробужденная защи�
 MultiLanguageNpcData['ru'][239447] = {name = "Праздничная ракета", subname = nil}
 MultiLanguageNpcData['ru'][239450] = {name = "Праздничная ракета", subname = nil}
 MultiLanguageNpcData['ru'][239452] = {name = "Racing Ram", subname = nil}
+MultiLanguageNpcData['ru'][239454] = {name = "Темный маг Зейд", subname = nil}
 MultiLanguageNpcData['ru'][239456] = {name = "Алтарь заклятого врага", subname = nil}
 MultiLanguageNpcData['ru'][239463] = {name = "Страховой бот картеля Мрачных Минеров", subname = nil}
 MultiLanguageNpcData['ru'][239468] = {name = "Мадам Госу", subname = "Агент черного рынка"}
@@ -2883,7 +2888,7 @@ MultiLanguageNpcData['ru'][239658] = {name = "Mister Snuggles", subname = nil}
 MultiLanguageNpcData['ru'][239662] = {name = "Data Collection Drone", subname = nil}
 MultiLanguageNpcData['ru'][239674] = {name = "Nagrand Snake", subname = nil}
 MultiLanguageNpcData['ru'][239682] = {name = "Уставший батрак", subname = "Мигрант-рабочий"}
-MultiLanguageNpcData['ru'][239692] = {name = "Ve'nari", subname = "[Founder of the Trust]"}
+MultiLanguageNpcData['ru'][239692] = {name = "Ве'нари", subname = "Основательница концерна"}
 MultiLanguageNpcData['ru'][239700] = {name = "Вход в вылазку", subname = nil}
 MultiLanguageNpcData['ru'][239702] = {name = "Дозорный Газ'крет", subname = nil}
 MultiLanguageNpcData['ru'][239716] = {name = "Дирк Мехосделкинс", subname = "Картель Трюмных Вод"}
@@ -2891,7 +2896,7 @@ MultiLanguageNpcData['ru'][239717] = {name = "Джести Желтопресс"
 MultiLanguageNpcData['ru'][239718] = {name = "Работница Торговой компании", subname = nil}
 MultiLanguageNpcData['ru'][239747] = {name = "Nagrand Snake", subname = nil}
 MultiLanguageNpcData['ru'][239762] = {name = "Гигакатушки", subname = nil}
-MultiLanguageNpcData['ru'][239765] = {name = "Pillar-nest Vosh monsters", subname = nil}
+MultiLanguageNpcData['ru'][239765] = {name = "Монстры из столпа-гнезда Вос", subname = nil}
 MultiLanguageNpcData['ru'][239782] = {name = "11.2 Delves - Fungarians01 - V04 - Black Blood Puddle: Radius 5 (Hufton)", subname = nil}
 MultiLanguageNpcData['ru'][239796] = {name = "Горожанин-мятежник", subname = "Картель Трюмных Вод"}
 MultiLanguageNpcData['ru'][239797] = {name = "Вымогатель из картеля Мрачных Минеров", subname = nil}
@@ -2908,7 +2913,7 @@ MultiLanguageNpcData['ru'][239840] = {name = "Чарбро", subname = "Това
 MultiLanguageNpcData['ru'][239841] = {name = "Parched Snake", subname = nil}
 MultiLanguageNpcData['ru'][239845] = {name = "Монти Газлоу", subname = "Торговый принц картеля Трюмных Вод"}
 MultiLanguageNpcData['ru'][239859] = {name = "Старушка Мехорульс", subname = nil}
-MultiLanguageNpcData['ru'][239865] = {name = "Lapbug Skitterer", subname = nil}
+MultiLanguageNpcData['ru'][239865] = {name = "Букаш-быстролап", subname = nil}
 MultiLanguageNpcData['ru'][239877] = {name = "Буровая установка клана Черного Железа", subname = nil}
 MultiLanguageNpcData['ru'][239892] = {name = "Ember", subname = nil}
 MultiLanguageNpcData['ru'][239893] = {name = "Madame Noodles", subname = nil}
@@ -2923,9 +2928,9 @@ MultiLanguageNpcData['ru'][239909] = {name = "Дозорный из Темной
 MultiLanguageNpcData['ru'][239911] = {name = "Таурен-озадачиватель", subname = "Проводник по War Within"}
 MultiLanguageNpcData['ru'][239916] = {name = "Kill Credit: Interact with Hourglass [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][239921] = {name = "Нестабильная ракета", subname = nil}
-MultiLanguageNpcData['ru'][239922] = {name = "M'arla", subname = "[Void Spore Enthusiast]"}
-MultiLanguageNpcData['ru'][239925] = {name = "Void Spore", subname = nil}
-MultiLanguageNpcData['ru'][239927] = {name = "Sporesweeper Om'clog", subname = "[Proffesional Void Sweeper]"}
+MultiLanguageNpcData['ru'][239922] = {name = "М'арла", subname = "Любитель спор Бездны"}
+MultiLanguageNpcData['ru'][239925] = {name = "Спора Бездны", subname = nil}
+MultiLanguageNpcData['ru'][239927] = {name = "Спорочист Ом'клог", subname = "Профессиональный уборщик Бездны"}
 MultiLanguageNpcData['ru'][239929] = {name = "Ember", subname = nil}
 MultiLanguageNpcData['ru'][239930] = {name = "Madame Noodles", subname = nil}
 MultiLanguageNpcData['ru'][239931] = {name = "Scarlet", subname = nil}
@@ -2980,7 +2985,7 @@ MultiLanguageNpcData['ru'][240106] = {name = "Кейджей", subname = "Гла
 MultiLanguageNpcData['ru'][240107] = {name = "Джоджо Гобдри", subname = "Главный руководитель по трапезам"}
 MultiLanguageNpcData['ru'][240108] = {name = "Великолепный Дейви", subname = "Главный руководитель по играм"}
 MultiLanguageNpcData['ru'][240110] = {name = "Канцлер Гноми", subname = "Главный руководитель по увеселениям"}
-MultiLanguageNpcData['ru'][240123] = {name = "M'arla", subname = "[Void Spore Enthusiast]"}
+MultiLanguageNpcData['ru'][240123] = {name = "М'арла", subname = "Любитель спор Бездны"}
 MultiLanguageNpcData['ru'][240128] = {name = "Алтарь возмездия", subname = nil}
 MultiLanguageNpcData['ru'][240130] = {name = "Неприкаянная душа", subname = nil}
 MultiLanguageNpcData['ru'][240131] = {name = "Поглощенная душа", subname = nil}
@@ -3011,7 +3016,7 @@ MultiLanguageNpcData['ru'][240191] = {name = "Атом Быстрогонц", su
 MultiLanguageNpcData['ru'][240192] = {name = "Кендо Быстрогонц", subname = nil}
 MultiLanguageNpcData['ru'][240219] = {name = "Arcane Dischargement Pylon", subname = nil}
 MultiLanguageNpcData['ru'][240220] = {name = "Подиум победителя", subname = nil}
-MultiLanguageNpcData['ru'][240243] = {name = "Puzzle Box", subname = nil}
+MultiLanguageNpcData['ru'][240243] = {name = "Шкатулка с секретом", subname = nil}
 MultiLanguageNpcData['ru'][240251] = {name = "Engineer Om'loof", subname = nil}
 MultiLanguageNpcData['ru'][240253] = {name = "Шепот судьбы", subname = nil}
 MultiLanguageNpcData['ru'][240280] = {name = "Фрактальный образ", subname = nil}
@@ -3036,7 +3041,7 @@ MultiLanguageNpcData['ru'][240440] = {name = "Великолепный Дейв�
 MultiLanguageNpcData['ru'][240441] = {name = "Джоджо Гобдри", subname = "Главный руководитель по трапезам"}
 MultiLanguageNpcData['ru'][240442] = {name = "Кейджей", subname = "Главный руководитель по работе с клиентами"}
 MultiLanguageNpcData['ru'][240443] = {name = "Синь Гогельмогель", subname = "Торговый принц картеля Хитрой Шестеренки"}
-MultiLanguageNpcData['ru'][240444] = {name = "Void-Shielded K'arroc", subname = nil}
+MultiLanguageNpcData['ru'][240444] = {name = "Укрытый Бездной к'аррух", subname = nil}
 MultiLanguageNpcData['ru'][240452] = {name = "Nagrand Snake", subname = nil}
 MultiLanguageNpcData['ru'][240471] = {name = "Поток маны", subname = nil}
 MultiLanguageNpcData['ru'][240476] = {name = "Посетитель Нижней Шахты", subname = nil}
@@ -3067,7 +3072,7 @@ MultiLanguageNpcData['ru'][240661] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][240664] = {name = "Выхлоп", subname = nil}
 MultiLanguageNpcData['ru'][240672] = {name = "Гамон", subname = "Герой Оргриммара"}
 MultiLanguageNpcData['ru'][240675] = {name = "Кабатчик Мораг", subname = nil}
-MultiLanguageNpcData['ru'][240681] = {name = "Eye of Sethraliss", subname = nil}
+MultiLanguageNpcData['ru'][240681] = {name = "Глаз Сетралисс", subname = nil}
 MultiLanguageNpcData['ru'][240696] = {name = "Улльна", subname = "Начинающая попечительница"}
 MultiLanguageNpcData['ru'][240698] = {name = "Китци", subname = nil}
 MultiLanguageNpcData['ru'][240699] = {name = "Дестиен", subname = nil}
@@ -3098,14 +3103,14 @@ MultiLanguageNpcData['ru'][240829] = {name = "Батарея", subname = nil}
 MultiLanguageNpcData['ru'][240830] = {name = "Бочка со взрывчаткой", subname = nil}
 MultiLanguageNpcData['ru'][240841] = {name = "Разряженная батарея", subname = nil}
 MultiLanguageNpcData['ru'][240842] = {name = "Леона Тенеброд", subname = nil}
-MultiLanguageNpcData['ru'][240844] = {name = "Eye of Sethraliss", subname = nil}
+MultiLanguageNpcData['ru'][240844] = {name = "Глаз Сетралисс", subname = nil}
 MultiLanguageNpcData['ru'][240852] = {name = "Ларс Бронсмэльт", subname = "Товары за известность"}
 MultiLanguageNpcData['ru'][240858] = {name = "Переписчица душ", subname = nil}
 MultiLanguageNpcData['ru'][240859] = {name = "Ве'нари", subname = "Основательница концерна"}
 MultiLanguageNpcData['ru'][240870] = {name = "Баллиста суреки", subname = nil}
 MultiLanguageNpcData['ru'][240884] = {name = "Бранн Бронзобород", subname = nil}
 MultiLanguageNpcData['ru'][240891] = {name = "Уставшая медоносная пчела", subname = nil}
-MultiLanguageNpcData['ru'][240905] = {name = "Arcane Collector", subname = nil}
+MultiLanguageNpcData['ru'][240905] = {name = "Чародейский сборщик", subname = nil}
 MultiLanguageNpcData['ru'][240906] = {name = "Аратийский часовой", subname = nil}
 MultiLanguageNpcData['ru'][240907] = {name = "Боевая аратийская рысь", subname = nil}
 MultiLanguageNpcData['ru'][240908] = {name = "Аратийский меченосец", subname = nil}
@@ -3116,7 +3121,7 @@ MultiLanguageNpcData['ru'][240912] = {name = "Аратийская священ�
 MultiLanguageNpcData['ru'][240913] = {name = "Аратийский рыцарь", subname = nil}
 MultiLanguageNpcData['ru'][240920] = {name = "Awakening Rune", subname = nil}
 MultiLanguageNpcData['ru'][240925] = {name = "Name", subname = "[Title]"}
-MultiLanguageNpcData['ru'][240935] = {name = "Nascent Shadowguard", subname = nil}
+MultiLanguageNpcData['ru'][240935] = {name = "Неопытный темный страж", subname = nil}
 MultiLanguageNpcData['ru'][240938] = {name = "Часовой К'ареши", subname = nil}
 MultiLanguageNpcData['ru'][240941] = {name = "Атомизатор чародейской матрицы", subname = nil}
 MultiLanguageNpcData['ru'][240952] = {name = "Призванный дух", subname = nil}
@@ -3124,6 +3129,7 @@ MultiLanguageNpcData['ru'][240967] = {name = "Сорот Гнев Миазмов
 MultiLanguageNpcData['ru'][240968] = {name = "Ан'так", subname = "Герой суреки"}
 MultiLanguageNpcData['ru'][240969] = {name = "Ануб'Ранакс", subname = "Герой суреки"}
 MultiLanguageNpcData['ru'][240971] = {name = "Brew Barrel", subname = nil}
+MultiLanguageNpcData['ru'][240974] = {name = "Мастер плетения из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][240979] = {name = "Веспер Чурнмоат", subname = "Барахольщик оскверненных доспехов"}
 MultiLanguageNpcData['ru'][241011] = {name = "Хромовый король Галливикс", subname = nil}
 MultiLanguageNpcData['ru'][241024] = {name = "Громила Кич", subname = "Древние редкости"}
@@ -3309,7 +3315,7 @@ MultiLanguageNpcData['ru'][241776] = {name = "Beam Caster Bunny 3", subname = ni
 MultiLanguageNpcData['ru'][241777] = {name = "Путевые врата", subname = nil}
 MultiLanguageNpcData['ru'][241783] = {name = "Выросшее щупальце", subname = nil}
 MultiLanguageNpcData['ru'][241789] = {name = "Огромное щупальце", subname = nil}
-MultiLanguageNpcData['ru'][241798] = {name = "Nexus-Prince Xevvos", subname = nil}
+MultiLanguageNpcData['ru'][241798] = {name = "Принц Зеввос", subname = nil}
 MultiLanguageNpcData['ru'][241800] = {name = "Кованный из маны титан", subname = nil}
 MultiLanguageNpcData['ru'][241801] = {name = "Сборщик из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][241802] = {name = "Nexus-Prince Dezzan", subname = nil}
@@ -3369,7 +3375,7 @@ MultiLanguageNpcData['ru'][241982] = {name = "Сияющий змей", subname 
 MultiLanguageNpcData['ru'][241983] = {name = "Голодающий презренный", subname = nil}
 MultiLanguageNpcData['ru'][241984] = {name = "Кель'тас Солнечный Скиталец", subname = "Правитель эльфов крови"}
 MultiLanguageNpcData['ru'][241986] = {name = "М'ууру", subname = nil}
-MultiLanguageNpcData['ru'][241987] = {name = "Arcana-Monger So'zer", subname = nil}
+MultiLanguageNpcData['ru'][241987] = {name = "Торговец чарами Со'зер", subname = nil}
 MultiLanguageNpcData['ru'][242003] = {name = "Шепот судьбы", subname = nil}
 MultiLanguageNpcData['ru'][242006] = {name = "Netherbreaker", subname = nil}
 MultiLanguageNpcData['ru'][242016] = {name = "Священный алхимик", subname = "Полевой сакралит"}
@@ -3380,7 +3386,7 @@ MultiLanguageNpcData['ru'][242083] = {name = "Brann Bronzebeard", subname = nil}
 MultiLanguageNpcData['ru'][242084] = {name = "Magni Bronzebeard", subname = nil}
 MultiLanguageNpcData['ru'][242085] = {name = "Muradin Bronzebeard", subname = nil}
 MultiLanguageNpcData['ru'][242088] = {name = "Командир суреки", subname = nil}
-MultiLanguageNpcData['ru'][242090] = {name = "Arcane Energy", subname = nil}
+MultiLanguageNpcData['ru'][242090] = {name = "Чародейская энергия", subname = nil}
 MultiLanguageNpcData['ru'][242094] = {name = "Гурта'зул", subname = nil}
 MultiLanguageNpcData['ru'][242095] = {name = "Леди Лиадрин", subname = nil}
 MultiLanguageNpcData['ru'][242096] = {name = "Лор'темар Терон", subname = nil}
@@ -3493,7 +3499,7 @@ MultiLanguageNpcData['ru'][242630] = {name = "Обезумевший неруб�
 MultiLanguageNpcData['ru'][242631] = {name = "Перегруженный часовой", subname = nil}
 MultiLanguageNpcData['ru'][242639] = {name = "Каркас смертоцикла огня Бездны", subname = nil}
 MultiLanguageNpcData['ru'][242647] = {name = "Знакомый герой", subname = "Альтернативная вселенная"}
-MultiLanguageNpcData['ru'][242648] = {name = "Nascent Shadowguard", subname = nil}
+MultiLanguageNpcData['ru'][242648] = {name = "Неопытный Темный Страж", subname = nil}
 MultiLanguageNpcData['ru'][242649] = {name = "Новорожденный аколит", subname = nil}
 MultiLanguageNpcData['ru'][242651] = {name = "Брундия Молотозвонница", subname = "Торговка игрушками и питомцами"}
 MultiLanguageNpcData['ru'][242674] = {name = "Детеныш беспокойного крылобега", subname = nil}
@@ -3515,7 +3521,7 @@ MultiLanguageNpcData['ru'][242719] = {name = "Young Void Chaser", subname = "[Cr
 MultiLanguageNpcData['ru'][242720] = {name = "Devourer Miteling", subname = "[Critter]"}
 MultiLanguageNpcData['ru'][242721] = {name = "Sandbank Hopling", subname = "[Critter]"}
 MultiLanguageNpcData['ru'][242728] = {name = "Суреки-стайник", subname = nil}
-MultiLanguageNpcData['ru'][242730] = {name = "Shadowguard Assassin", subname = nil}
+MultiLanguageNpcData['ru'][242730] = {name = "Убийца из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][242732] = {name = "Cartel Zo Associate", subname = "[T1 (1/1)]"}
 MultiLanguageNpcData['ru'][242736] = {name = "Суреки-копатель", subname = nil}
 MultiLanguageNpcData['ru'][242737] = {name = "Реликвия силы", subname = nil}
@@ -3568,7 +3574,7 @@ MultiLanguageNpcData['ru'][242910] = {name = "Портал времени", subn
 MultiLanguageNpcData['ru'][242912] = {name = "Линдорми из будущего", subname = nil}
 MultiLanguageNpcData['ru'][242916] = {name = "Полковник Вероника Ниалс", subname = nil}
 MultiLanguageNpcData['ru'][242920] = {name = "K'areshi Sentry", subname = nil}
-MultiLanguageNpcData['ru'][242928] = {name = "Manaforge", subname = nil}
+MultiLanguageNpcData['ru'][242928] = {name = "Манагорн", subname = nil}
 MultiLanguageNpcData['ru'][242936] = {name = "Странник", subname = nil}
 MultiLanguageNpcData['ru'][242946] = {name = "Затерянная во времени дриада", subname = "Часовые ночных эльфов"}
 MultiLanguageNpcData['ru'][242947] = {name = "Буреклюв", subname = nil}
@@ -3595,7 +3601,7 @@ MultiLanguageNpcData['ru'][243084] = {name = "Помощник", subname = nil}
 MultiLanguageNpcData['ru'][243085] = {name = "Ферадрин Стремительный Коготь", subname = nil}
 MultiLanguageNpcData['ru'][243092] = {name = "Чайка", subname = nil}
 MultiLanguageNpcData['ru'][243105] = {name = "Аномальный паразит", subname = nil}
-MultiLanguageNpcData['ru'][243108] = {name = "Void Tear", subname = nil}
+MultiLanguageNpcData['ru'][243108] = {name = "Прорыв Бездны", subname = nil}
 MultiLanguageNpcData['ru'][243115] = {name = "Эйтригг", subname = nil}
 MultiLanguageNpcData['ru'][243116] = {name = "Воевода Гейя'ра", subname = nil}
 MultiLanguageNpcData['ru'][243117] = {name = "Данат Троллебой", subname = nil}
@@ -3667,7 +3673,7 @@ MultiLanguageNpcData['ru'][243498] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][243552] = {name = "Фазовая проекция", subname = nil}
 MultiLanguageNpcData['ru'][243636] = {name = "Бездномантиевый скат", subname = nil}
 MultiLanguageNpcData['ru'][243644] = {name = "Огромный ползун Бездны", subname = nil}
-MultiLanguageNpcData['ru'][243646] = {name = "Slabhide", subname = nil}
+MultiLanguageNpcData['ru'][243646] = {name = "Камнешкур", subname = nil}
 MultiLanguageNpcData['ru'][243653] = {name = "Аллерия Ветрокрылая", subname = nil}
 MultiLanguageNpcData['ru'][243654] = {name = "Буреклюв", subname = nil}
 MultiLanguageNpcData['ru'][243687] = {name = "Украденное оборудование", subname = nil}
@@ -3744,7 +3750,7 @@ MultiLanguageNpcData['ru'][243980] = {name = "Path Helper", subname = nil}
 MultiLanguageNpcData['ru'][244003] = {name = "Финн Брислмейн", subname = nil}
 MultiLanguageNpcData['ru'][244028] = {name = "Alemental [PH]", subname = nil}
 MultiLanguageNpcData['ru'][244050] = {name = "Консоль", subname = nil}
-MultiLanguageNpcData['ru'][244056] = {name = "Thorntail Hunter", subname = nil}
+MultiLanguageNpcData['ru'][244056] = {name = "Шипохвост-охотник", subname = nil}
 MultiLanguageNpcData['ru'][244059] = {name = "Kill Credit [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][244063] = {name = "Бриджет Пламя Кузни", subname = nil}
 MultiLanguageNpcData['ru'][244090] = {name = "Пузырь Бездны", subname = nil}
@@ -3759,10 +3765,10 @@ MultiLanguageNpcData['ru'][244115] = {name = "Нуль-защитник из Т�
 MultiLanguageNpcData['ru'][244117] = {name = "Воскоделец Пик-пик", subname = nil}
 MultiLanguageNpcData['ru'][244137] = {name = "Чаротехник из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][244138] = {name = "Тенеглаз-наблюдатель", subname = nil}
-MultiLanguageNpcData['ru'][244139] = {name = "Mana-Bound Ethergate", subname = nil}
+MultiLanguageNpcData['ru'][244139] = {name = "Скованные маной эфирные врата", subname = nil}
 MultiLanguageNpcData['ru'][244140] = {name = "Стальной дух из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][244143] = {name = "Зи'гатс", subname = "Привозной громила"}
-MultiLanguageNpcData['ru'][244149] = {name = "Ethereal Security Pylon", subname = nil}
+MultiLanguageNpcData['ru'][244149] = {name = "Пилон безопасности эфириалов", subname = nil}
 MultiLanguageNpcData['ru'][244152] = {name = "Brewgarden - Cooking vehicle - Brew [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][244162] = {name = "Hammer", subname = nil}
 MultiLanguageNpcData['ru'][244165] = {name = "Grain", subname = nil}
@@ -3787,7 +3793,7 @@ MultiLanguageNpcData['ru'][244384] = {name = "Капитан Нил'хитан",
 MultiLanguageNpcData['ru'][244385] = {name = "На'валь", subname = nil}
 MultiLanguageNpcData['ru'][244390] = {name = "Kalnor the Ironbound", subname = nil}
 MultiLanguageNpcData['ru'][244391] = {name = "Weavebinder Anontia", subname = nil}
-MultiLanguageNpcData['ru'][244393] = {name = "Portalmaster Halsan", subname = nil}
+MultiLanguageNpcData['ru'][244393] = {name = "Мастер порталов Хальсан", subname = nil}
 MultiLanguageNpcData['ru'][244410] = {name = "Песчаный разоритель – слуга пакта", subname = nil}
 MultiLanguageNpcData['ru'][244411] = {name = "Чародей – слуга пакта", subname = nil}
 MultiLanguageNpcData['ru'][244413] = {name = "Вестник битвы – слуга пакта", subname = nil}
@@ -3805,7 +3811,7 @@ MultiLanguageNpcData['ru'][244485] = {name = "Снабженец Ба'накл",
 MultiLanguageNpcData['ru'][244498] = {name = "Безликий", subname = nil}
 MultiLanguageNpcData['ru'][244531] = {name = "Призрачное видение", subname = nil}
 MultiLanguageNpcData['ru'][244532] = {name = "Ravenous Rat", subname = nil}
-MultiLanguageNpcData['ru'][244534] = {name = "Ксал'атат", subname = "[The Harbinger]"}
+MultiLanguageNpcData['ru'][244534] = {name = "Ксал'атат", subname = "Предвестница"}
 MultiLanguageNpcData['ru'][244544] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['ru'][244545] = {name = "Brewfest Reveler", subname = nil}
 MultiLanguageNpcData['ru'][244560] = {name = "Чародейский снаряд", subname = nil}
@@ -3894,14 +3900,15 @@ MultiLanguageNpcData['ru'][245191] = {name = "Дагран Тауриссан В
 MultiLanguageNpcData['ru'][245195] = {name = "Brew Specialist", subname = nil}
 MultiLanguageNpcData['ru'][245210] = {name = "Kill Credit: Titan Disc Created [DNT]", subname = nil}
 MultiLanguageNpcData['ru'][245211] = {name = "Kill Credit: Overcharged Node[DNT]", subname = nil}
-MultiLanguageNpcData['ru'][245222] = {name = "Паргот", subname = "[Devoured Lord]"}
+MultiLanguageNpcData['ru'][245222] = {name = "Паргот", subname = "Поглощенный лорд"}
 MultiLanguageNpcData['ru'][245242] = {name = "Пункт маршрута Б", subname = nil}
 MultiLanguageNpcData['ru'][245245] = {name = "ГМЖС", subname = nil}
-MultiLanguageNpcData['ru'][245249] = {name = "Mana Feeder", subname = nil}
+MultiLanguageNpcData['ru'][245249] = {name = "Маноед", subname = nil}
 MultiLanguageNpcData['ru'][245250] = {name = "Фазовая сфера", subname = nil}
 MultiLanguageNpcData['ru'][245253] = {name = "Cosmic Void Dust", subname = nil}
+MultiLanguageNpcData['ru'][245255] = {name = "Артошион", subname = "Поглощенный лорд"}
 MultiLanguageNpcData['ru'][245260] = {name = "Kill Credit", subname = nil}
-MultiLanguageNpcData['ru'][245265] = {name = "Void Shardling", subname = nil}
+MultiLanguageNpcData['ru'][245265] = {name = "Осколыш Бездны", subname = nil}
 MultiLanguageNpcData['ru'][245274] = {name = "Душа Веларин", subname = nil}
 MultiLanguageNpcData['ru'][245277] = {name = "Чародей из Темной Стражи", subname = nil}
 MultiLanguageNpcData['ru'][245282] = {name = "Исказитель пространства Ло'рант", subname = "Трансмогрификатор"}
@@ -3919,7 +3926,7 @@ MultiLanguageNpcData['ru'][245307] = {name = "Коллекционер из Ко
 MultiLanguageNpcData['ru'][245308] = {name = "Золотистый мурмяв", subname = nil}
 MultiLanguageNpcData['ru'][245309] = {name = "Аллерия Ветрокрылая", subname = nil}
 MultiLanguageNpcData['ru'][245310] = {name = "Странник", subname = nil}
-MultiLanguageNpcData['ru'][245318] = {name = "Duneling", subname = nil}
+MultiLanguageNpcData['ru'][245318] = {name = "Дюнный ползун", subname = nil}
 MultiLanguageNpcData['ru'][245331] = {name = "Фазовый ныряльщик", subname = nil}
 MultiLanguageNpcData['ru'][245335] = {name = "Космический ужас", subname = nil}
 MultiLanguageNpcData['ru'][245338] = {name = "Фазовый ныряльщик", subname = nil}
@@ -3968,7 +3975,7 @@ MultiLanguageNpcData['ru'][245525] = {name = "Странник", subname = nil}
 MultiLanguageNpcData['ru'][245532] = {name = "Riftwalker Soran", subname = nil}
 MultiLanguageNpcData['ru'][245533] = {name = "Riftwalker Dellyn", subname = nil}
 MultiLanguageNpcData['ru'][245536] = {name = "Леона Тенеброд", subname = nil}
-MultiLanguageNpcData['ru'][245543] = {name = "Ancestor", subname = nil}
+MultiLanguageNpcData['ru'][245543] = {name = "Предок", subname = nil}
 MultiLanguageNpcData['ru'][245549] = {name = "Фрактальный образ", subname = nil}
 MultiLanguageNpcData['ru'][245550] = {name = "Фрактальный образ", subname = nil}
 MultiLanguageNpcData['ru'][245559] = {name = "Rune of Explosive Force", subname = nil}
@@ -3984,7 +3991,7 @@ MultiLanguageNpcData['ru'][245622] = {name = "Портал встречи", subn
 MultiLanguageNpcData['ru'][245623] = {name = "Падший", subname = nil}
 MultiLanguageNpcData['ru'][245624] = {name = "Vengeful Oath", subname = nil}
 MultiLanguageNpcData['ru'][245654] = {name = "Портал выхода", subname = nil}
-MultiLanguageNpcData['ru'][245660] = {name = "Engorged Feeder", subname = nil}
+MultiLanguageNpcData['ru'][245660] = {name = "Раздувшийся червь", subname = nil}
 MultiLanguageNpcData['ru'][245705] = {name = "Страж Бездны", subname = nil}
 MultiLanguageNpcData['ru'][245722] = {name = "Эфириал-прохиндей", subname = nil}
 MultiLanguageNpcData['ru'][245730] = {name = "Entropic Remnant", subname = nil}
@@ -4180,7 +4187,7 @@ MultiLanguageNpcData['ru'][247799] = {name = "Invisible Bunny - 4", subname = ni
 MultiLanguageNpcData['ru'][247917] = {name = "Разломий", subname = nil}
 MultiLanguageNpcData['ru'][247927] = {name = "Страж ужаса – ловчий LT", subname = nil}
 MultiLanguageNpcData['ru'][247930] = {name = "Помощник", subname = nil}
-MultiLanguageNpcData['ru'][247935] = {name = "Skiff", subname = nil}
+MultiLanguageNpcData['ru'][247935] = {name = "Лодка", subname = nil}
 MultiLanguageNpcData['ru'][247937] = {name = "Ом'раульф", subname = "Ремонт"}
 MultiLanguageNpcData['ru'][247938] = {name = "Исказитель пространства Ом'зора", subname = "Трансмогрификатор"}
 MultiLanguageNpcData['ru'][247939] = {name = "Ом'веш", subname = "Фрукты и напитки"}
@@ -4211,13 +4218,14 @@ MultiLanguageNpcData['ru'][248222] = {name = "Перемещатель", subname
 MultiLanguageNpcData['ru'][248223] = {name = "Перемещатель", subname = nil}
 MultiLanguageNpcData['ru'][248267] = {name = "Shadowguard Voidtamer", subname = nil}
 MultiLanguageNpcData['ru'][248288] = {name = "Crystallized Memory", subname = nil}
-MultiLanguageNpcData['ru'][248303] = {name = "Zah'ran", subname = "[Delve Trinkets]"}
+MultiLanguageNpcData['ru'][248303] = {name = "Зах'ран", subname = "Аксессуары для вылазок"}
 MultiLanguageNpcData['ru'][248304] = {name = "Добытчик Ба'теом", subname = "Экзотические доспехи"}
 MultiLanguageNpcData['ru'][248327] = {name = "Пожиратель-мародер", subname = nil}
 MultiLanguageNpcData['ru'][248330] = {name = "Разлом Пустоты", subname = nil}
 MultiLanguageNpcData['ru'][248340] = {name = "Разлом Пустоты", subname = nil}
 MultiLanguageNpcData['ru'][248341] = {name = "Дип Переключ", subname = "Лавка воспоминаний"}
 MultiLanguageNpcData['ru'][248351] = {name = "Зип Переключ", subname = "Лавка воспоминаний"}
+MultiLanguageNpcData['ru'][248404] = {name = "Веларин Кровавая Ярость", subname = nil}
 MultiLanguageNpcData['ru'][248453] = {name = "Отголосок искателя приключений", subname = nil}
 MultiLanguageNpcData['ru'][248458] = {name = "Shadowguard Voidripper", subname = "[T1 (1/1)]"}
 MultiLanguageNpcData['ru'][248469] = {name = "Штаб исследователей", subname = nil}
@@ -4226,7 +4234,7 @@ MultiLanguageNpcData['ru'][248490] = {name = "Манарез для вылазо
 MultiLanguageNpcData['ru'][248491] = {name = "Сезонный манарез для вылазок", subname = nil}
 MultiLanguageNpcData['ru'][248496] = {name = "Бранн Бронзобород", subname = nil}
 MultiLanguageNpcData['ru'][248518] = {name = "Агент хранилища Бездны в отставке", subname = nil}
-MultiLanguageNpcData['ru'][248519] = {name = "F.Akename", subname = "[\"Void Storage\"]"}
+MultiLanguageNpcData['ru'][248519] = {name = "П. Севдоним", subname = "\"Хранилище Бездны\""}
 MultiLanguageNpcData['ru'][248521] = {name = "Костер пустынников", subname = nil}
 MultiLanguageNpcData['ru'][248538] = {name = "Гонка участников вылазки", subname = nil}
 MultiLanguageNpcData['ru'][248539] = {name = "Наемник Торговой компании", subname = nil}
@@ -4237,13 +4245,13 @@ MultiLanguageNpcData['ru'][248564] = {name = "Пойманный медведь"
 MultiLanguageNpcData['ru'][248568] = {name = "Атомизатор чародейской матрицы", subname = nil}
 MultiLanguageNpcData['ru'][248569] = {name = "Атомизатор чародейской матрицы", subname = nil}
 MultiLanguageNpcData['ru'][248589] = {name = "Вязальщик из небытия", subname = nil}
-MultiLanguageNpcData['ru'][248626] = {name = "Nascent Darkmage", subname = nil}
+MultiLanguageNpcData['ru'][248626] = {name = "Начинающий темный маг", subname = nil}
 MultiLanguageNpcData['ru'][248679] = {name = "Майонезный слизнюк", subname = nil}
 MultiLanguageNpcData['ru'][248691] = {name = "Pylon Stalker (DNT)", subname = nil}
 MultiLanguageNpcData['ru'][248704] = {name = "Малая машина для связывания", subname = nil}
 MultiLanguageNpcData['ru'][248705] = {name = "Beam Stalker (DNT)", subname = nil}
 MultiLanguageNpcData['ru'][248707] = {name = "Малая неприкаянная душа", subname = nil}
-MultiLanguageNpcData['ru'][248727] = {name = "Locus-Walker", subname = nil}
+MultiLanguageNpcData['ru'][248727] = {name = "Странник", subname = nil}
 MultiLanguageNpcData['ru'][248728] = {name = "Аллерия Ветрокрылая", subname = nil}
 MultiLanguageNpcData['ru'][248729] = {name = "Ксал'атат", subname = "Предвестница"}
 MultiLanguageNpcData['ru'][248742] = {name = "Twisted Mana Sprite", subname = nil}
@@ -4256,9 +4264,9 @@ MultiLanguageNpcData['ru'][248855] = {name = "Похищенный артефа�
 MultiLanguageNpcData['ru'][248903] = {name = "Лодка", subname = nil}
 MultiLanguageNpcData['ru'][248923] = {name = "Запасная повязка Адара", subname = nil}
 MultiLanguageNpcData['ru'][248927] = {name = "Зах'ран", subname = "Аксессуары для вылазок"}
-MultiLanguageNpcData['ru'][248928] = {name = "Зах'ран", subname = "[Delve Trinkets]"}
-MultiLanguageNpcData['ru'][248929] = {name = "Зах'ран", subname = "[Delve Trinkets]"}
-MultiLanguageNpcData['ru'][248930] = {name = "Zah'ran", subname = "[Delve Trinkets]"}
+MultiLanguageNpcData['ru'][248928] = {name = "Зах'ран", subname = "Аксессуары для вылазок"}
+MultiLanguageNpcData['ru'][248929] = {name = "Зах'ран", subname = "Аксессуары для вылазок"}
+MultiLanguageNpcData['ru'][248930] = {name = "Зах'ран", subname = "Аксессуары для вылазок"}
 MultiLanguageNpcData['ru'][249001] = {name = "Похищенный артефакт", subname = nil}
 MultiLanguageNpcData['ru'][249056] = {name = "К'арешский прилавок", subname = nil}
 MultiLanguageNpcData['ru'][249179] = {name = "Прорыв Бездны – ловчий", subname = nil}
@@ -4276,7 +4284,7 @@ MultiLanguageNpcData['ru'][249386] = {name = "Удар убийцы звезд",
 MultiLanguageNpcData['ru'][249395] = {name = "Странник", subname = nil}
 MultiLanguageNpcData['ru'][249416] = {name = "Reshii Wraps Provisioner", subname = "[PTR Cloak Vendor]"}
 MultiLanguageNpcData['ru'][249440] = {name = "Om'taha", subname = nil}
-MultiLanguageNpcData['ru'][249455] = {name = "Cosmetic Death Target", subname = nil}
+MultiLanguageNpcData['ru'][249455] = {name = "Цель визуального эффекта смерти", subname = nil}
 MultiLanguageNpcData['ru'][249469] = {name = "Счетовод Зо'фир", subname = nil}
 MultiLanguageNpcData['ru'][249470] = {name = "Ученик Зо'трэ", subname = nil}
 MultiLanguageNpcData['ru'][249471] = {name = "Счетовод Зо'да", subname = nil}
@@ -4287,9 +4295,11 @@ MultiLanguageNpcData['ru'][249505] = {name = "Джайаан", subname = nil}
 MultiLanguageNpcData['ru'][249506] = {name = "Странник", subname = nil}
 MultiLanguageNpcData['ru'][249507] = {name = "Переписчица душ", subname = nil}
 MultiLanguageNpcData['ru'][249509] = {name = "Лаш'ир", subname = nil}
-MultiLanguageNpcData['ru'][249513] = {name = "К'арешская лиса", subname = nil}
+MultiLanguageNpcData['ru'][249512] = {name = "Нарате", subname = nil}
+MultiLanguageNpcData['ru'][249513] = {name = "К'арешская лиса", subname = "Ур. 1 (1/1)"}
 MultiLanguageNpcData['ru'][249514] = {name = "К'арешский лисенок", subname = nil}
 MultiLanguageNpcData['ru'][249515] = {name = "Спасенный к'аррух", subname = nil}
+MultiLanguageNpcData['ru'][249516] = {name = "Сланцеспин-бегун", subname = "Ур. 1 (1/1)"}
 MultiLanguageNpcData['ru'][249519] = {name = "Начало фазового перехода", subname = nil}
 MultiLanguageNpcData['ru'][249565] = {name = "Перезарядка фазового резака", subname = nil}
 MultiLanguageNpcData['ru'][249592] = {name = "Панель управления титанов", subname = nil}
@@ -4320,10 +4330,10 @@ MultiLanguageNpcData['ru'][249799] = {name = "Сланцеспин-бегун", 
 MultiLanguageNpcData['ru'][249806] = {name = "Парящий к'аррух", subname = nil}
 MultiLanguageNpcData['ru'][249811] = {name = "Фазовый проводник", subname = nil}
 MultiLanguageNpcData['ru'][249829] = {name = "Гробовжик", subname = nil}
-MultiLanguageNpcData['ru'][249832] = {name = "Nexus-Princess Ky'veza", subname = nil}
+MultiLanguageNpcData['ru'][249832] = {name = "Принцесса Нексуса Ки'веза", subname = nil}
 MultiLanguageNpcData['ru'][249841] = {name = "Фазовый проводник", subname = nil}
 MultiLanguageNpcData['ru'][249858] = {name = "Domestic Phaserover", subname = nil}
-MultiLanguageNpcData['ru'][250215] = {name = "Nether Phantom", subname = nil}
+MultiLanguageNpcData['ru'][250215] = {name = "Фантом Пустоты", subname = nil}
 MultiLanguageNpcData['ru'][250216] = {name = "Nether Phantom", subname = nil}
 MultiLanguageNpcData['ru'][250271] = {name = "Wandering Pulsar", subname = nil}
 MultiLanguageNpcData['ru'][250285] = {name = "Spider", subname = nil}
@@ -4345,6 +4355,7 @@ MultiLanguageNpcData['ru'][250727] = {name = "Странница разломо�
 MultiLanguageNpcData['ru'][250728] = {name = "Странник разломов Соран", subname = nil}
 MultiLanguageNpcData['ru'][250729] = {name = "Борий Умброшрам", subname = "Посланник энтропии"}
 MultiLanguageNpcData['ru'][250730] = {name = "Лейтенант Верана", subname = nil}
+MultiLanguageNpcData['ru'][250731] = {name = "Эонара Тень Рассвета", subname = "Несущая Затмение"}
 MultiLanguageNpcData['ru'][250732] = {name = "Мракозар Вечный Рассвет", subname = nil}
 MultiLanguageNpcData['ru'][250733] = {name = "Клинок Бездны Маэлла", subname = nil}
 MultiLanguageNpcData['ru'][250765] = {name = "Чародей из Консорциума", subname = nil}
@@ -4352,11 +4363,12 @@ MultiLanguageNpcData['ru'][250766] = {name = "Адепт из Темной Ст�
 MultiLanguageNpcData['ru'][250767] = {name = "Смотритель из картеля Ом", subname = nil}
 MultiLanguageNpcData['ru'][250768] = {name = "Страж из картеля Зо", subname = nil}
 MultiLanguageNpcData['ru'][250769] = {name = "Поручитель Консорциума", subname = nil}
-MultiLanguageNpcData['ru'][250770] = {name = "Торговец Ба'но", subname = "[Lady Darkglen's Retainer]"}
+MultiLanguageNpcData['ru'][250770] = {name = "Торговец Ба'но", subname = "Охранник госпожи Мракодол"}
 MultiLanguageNpcData['ru'][250848] = {name = "Счетчик символов высшего пилотажа", subname = nil}
 MultiLanguageNpcData['ru'][250881] = {name = "Arcane Spirit", subname = nil}
 MultiLanguageNpcData['ru'][250887] = {name = "Могильный камень", subname = nil}
-MultiLanguageNpcData['ru'][250894] = {name = "Path Helper", subname = nil}
+MultiLanguageNpcData['ru'][250894] = {name = "Проводник", subname = nil}
 MultiLanguageNpcData['ru'][250976] = {name = "11.2 - K'aresh - Campaign - Epilogue - World Soul (YGR)", subname = nil}
 MultiLanguageNpcData['ru'][251048] = {name = "Leaving Phase Diving", subname = nil}
 MultiLanguageNpcData['ru'][251508] = {name = "Бород Бронзобранн", subname = nil}
+MultiLanguageNpcData['ru'][252904] = {name = "Грызошип", subname = nil}

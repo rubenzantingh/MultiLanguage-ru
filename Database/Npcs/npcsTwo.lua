@@ -42707,7 +42707,7 @@ MultiLanguageNpcData['ru'][114596] = {name = "Миллхаус Манаштор�
 MultiLanguageNpcData['ru'][114597] = {name = "Чэнь Буйный Портер", subname = nil}
 MultiLanguageNpcData['ru'][114598] = {name = "Король обезьян", subname = nil}
 MultiLanguageNpcData['ru'][114599] = {name = "Воздаятель Борос", subname = nil}
-MultiLanguageNpcData['ru'][114600] = {name = "Аратор Искупитель", subname = nil}
+MultiLanguageNpcData['ru'][114600] = {name = "Аратор", subname = nil}
 MultiLanguageNpcData['ru'][114601] = {name = "Забра Проклинатель", subname = nil}
 MultiLanguageNpcData['ru'][114602] = {name = "Сол", subname = nil}
 MultiLanguageNpcData['ru'][114603] = {name = "Ванесса ван Клиф", subname = "Некоронованная"}
@@ -48168,7 +48168,7 @@ MultiLanguageNpcData['ru'][120942] = {name = "Шаман из племени Р�
 MultiLanguageNpcData['ru'][120943] = {name = "Мать бесов", subname = nil}
 MultiLanguageNpcData['ru'][120944] = {name = "Вершитель судеб Зарахан", subname = nil}
 MultiLanguageNpcData['ru'][120945] = {name = "Терзающий осквернитель", subname = nil}
-MultiLanguageNpcData['ru'][120946] = {name = "Служитель Акил'зона", subname = nil}
+MultiLanguageNpcData['ru'][120946] = {name = "Служитель Акил'зон", subname = nil}
 MultiLanguageNpcData['ru'][120947] = {name = "Оскверненный идол Авианы", subname = nil}
 MultiLanguageNpcData['ru'][120948] = {name = "Invisible Bunny", subname = nil}
 MultiLanguageNpcData['ru'][120949] = {name = "Служитель Налоракка", subname = nil}

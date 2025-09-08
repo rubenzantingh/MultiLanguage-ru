@@ -33493,7 +33493,6 @@ MultiLanguageNpcData['ru'][158831] = {name = "Силы Казначея", subnam
 MultiLanguageNpcData['ru'][158832] = {name = "Kill Credit - Speak with Angeir", subname = nil}
 MultiLanguageNpcData['ru'][158833] = {name = "Kill Credit - Grapple Point 1", subname = nil}
 MultiLanguageNpcData['ru'][158834] = {name = "Kill Credit -  Speak with Whisper", subname = nil}
-MultiLanguageNpcData['ru'][158835] = {name = "Рамкахен-горожанин", subname = nil}
 MultiLanguageNpcData['ru'][158836] = {name = "Anima Soul (Ghost Visual Only)", subname = nil}
 MultiLanguageNpcData['ru'][158837] = {name = "Старейшая Данмира", subname = "Дух бури"}
 MultiLanguageNpcData['ru'][158838] = {name = "Древний Алкорн", subname = "Страж морей"}
