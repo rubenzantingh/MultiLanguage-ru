@@ -34987,12 +34987,12 @@ MultiLanguageNpcData['ru'][218950] = {name = "Буровая установка 
 MultiLanguageNpcData['ru'][218951] = {name = "Буровая установка клана Черного Железа", subname = nil}
 MultiLanguageNpcData['ru'][218952] = {name = "Буровая установка клана Черного Железа", subname = nil}
 MultiLanguageNpcData['ru'][218953] = {name = "Буровая установка клана Черного Железа", subname = nil}
-MultiLanguageNpcData['ru'][218954] = {name = "Dark Iron Mole Machine", subname = nil}
-MultiLanguageNpcData['ru'][218955] = {name = "Dark Iron Mole Machine", subname = nil}
+MultiLanguageNpcData['ru'][218954] = {name = "Буровая установка клана Черного Железа", subname = nil}
+MultiLanguageNpcData['ru'][218955] = {name = "Буровая установка клана Черного Железа", subname = nil}
 MultiLanguageNpcData['ru'][218956] = {name = "Буровая установка клана Черного Железа", subname = nil}
-MultiLanguageNpcData['ru'][218957] = {name = "Dark Iron Mole Machine", subname = nil}
-MultiLanguageNpcData['ru'][218958] = {name = "Dark Iron Mole Machine", subname = nil}
-MultiLanguageNpcData['ru'][218959] = {name = "Dark Iron Mole Machine", subname = nil}
+MultiLanguageNpcData['ru'][218957] = {name = "Буровая установка клана Черного Железа", subname = nil}
+MultiLanguageNpcData['ru'][218958] = {name = "Буровая установка клана Черного Железа", subname = nil}
+MultiLanguageNpcData['ru'][218959] = {name = "Буровая установка клана Черного Железа", subname = nil}
 MultiLanguageNpcData['ru'][218960] = {name = "Пчелиный путь", subname = nil}
 MultiLanguageNpcData['ru'][218961] = {name = "Изголодавшийся ползун", subname = nil}
 MultiLanguageNpcData['ru'][218962] = {name = "Раздувшийся вредитель", subname = nil}
