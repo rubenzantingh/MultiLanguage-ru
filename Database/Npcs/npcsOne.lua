@@ -40873,7 +40873,11 @@ MultiLanguageNpcData['ru'][62686] = {name = "Огромный кор'тик - р
 MultiLanguageNpcData['ru'][62689] = {name = "Звуковое кольцо", subname = nil}
 MultiLanguageNpcData['ru'][62690] = {name = "Малик Невредимый", subname = nil}
 MultiLanguageNpcData['ru'][62691] = {name = "Живой янтарь", subname = nil}
+MultiLanguageNpcData['ru'][62698] = {name = "Звуковое кольцо", subname = nil}
+MultiLanguageNpcData['ru'][62699] = {name = "Звуковое кольцо", subname = nil}
+MultiLanguageNpcData['ru'][62700] = {name = "Звуковое кольцо", subname = nil}
 MultiLanguageNpcData['ru'][62701] = {name = "Мутировавший организм", subname = nil}
+MultiLanguageNpcData['ru'][62702] = {name = "Звуковое кольцо", subname = nil}
 MultiLanguageNpcData['ru'][62705] = {name = "Отваропушка", subname = nil}
 MultiLanguageNpcData['ru'][62706] = {name = "Трусливая Цзуй", subname = nil}
 MultiLanguageNpcData['ru'][62707] = {name = "Шоми", subname = "Дочь кузнеца"}
