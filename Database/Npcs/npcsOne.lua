@@ -48177,4 +48177,3 @@ MultiLanguageNpcData['ru'][64749] = {name = "Кур Кэстрапо", subname =
 MultiLanguageNpcData['ru'][64750] = {name = "Роб Джексон", subname = "Укротительница питомцев"}
 MultiLanguageNpcData['ru'][64751] = {name = "Госпожа Джексон", subname = "Укротительница питомцев"}
 MultiLanguageNpcData['ru'][64752] = {name = "Тейнер Галициоглу", subname = "Укротительница питомцев"}
-MultiLanguageNpcData['ru'][64753] = {name = "Софи Навтика", subname = "Укротительница питомцев"}

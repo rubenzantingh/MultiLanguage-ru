@@ -1,3 +1,4 @@
+MultiLanguageNpcData['ru'][64753] = {name = "Софи Навтика", subname = "Укротительница питомцев"}
 MultiLanguageNpcData['ru'][64754] = {name = "Джейнвинд Пател", subname = "Укротительница питомцев"}
 MultiLanguageNpcData['ru'][64755] = {name = "Шарин Серебристый Лист", subname = "Укротительница питомцев"}
 MultiLanguageNpcData['ru'][64756] = {name = "Крис Кларк", subname = nil}
@@ -26932,7 +26933,7 @@ MultiLanguageNpcData['ru'][96602] = {name = "Воздаятельница Кор
 MultiLanguageNpcData['ru'][96603] = {name = "Карательница Джулия Селеста", subname = nil}
 MultiLanguageNpcData['ru'][96604] = {name = "Джорад Мейс", subname = nil}
 MultiLanguageNpcData['ru'][96605] = {name = "Леорик фон Цельдиг", subname = nil}
-MultiLanguageNpcData['ru'][96606] = {name = "Аратор Искупитель", subname = nil}
+MultiLanguageNpcData['ru'][96606] = {name = "Аратор", subname = nil}
 MultiLanguageNpcData['ru'][96608] = {name = "Эбеновый ворг", subname = nil}
 MultiLanguageNpcData['ru'][96609] = {name = "Золотистый олень", subname = nil}
 MultiLanguageNpcData['ru'][96611] = {name = "Сердитый бык", subname = nil}
@@ -48180,4 +48181,3 @@ MultiLanguageNpcData['ru'][120954] = {name = "Знамя Альянса", subnam
 MultiLanguageNpcData['ru'][120955] = {name = "Знамя Орды", subname = nil}
 MultiLanguageNpcData['ru'][120956] = {name = "Очищенный идол Авианы", subname = nil}
 MultiLanguageNpcData['ru'][120957] = {name = "Desolation of the Moon Stalker", subname = nil}
-MultiLanguageNpcData['ru'][120958] = {name = "Зоротианский рыцарь Скверны", subname = nil}

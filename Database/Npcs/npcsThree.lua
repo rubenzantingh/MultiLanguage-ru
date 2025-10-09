@@ -1,3 +1,4 @@
+MultiLanguageNpcData['ru'][120958] = {name = "Зоротианский рыцарь Скверны", subname = nil}
 MultiLanguageNpcData['ru'][120959] = {name = "Новый заказ", subname = nil}
 MultiLanguageNpcData['ru'][120961] = {name = "Инфернальный удар", subname = nil}
 MultiLanguageNpcData['ru'][120962] = {name = "Наполненная Скверной песнопевица", subname = nil}
@@ -17994,6 +17995,7 @@ MultiLanguageNpcData['ru'][141276] = {name = "Лейтенант Саманта 
 MultiLanguageNpcData['ru'][141277] = {name = "Portal Bunny", subname = nil}
 MultiLanguageNpcData['ru'][141278] = {name = "Джудно", subname = nil}
 MultiLanguageNpcData['ru'][141279] = {name = "Дафини", subname = nil}
+MultiLanguageNpcData['ru'][141280] = {name = "Джан", subname = nil}
 MultiLanguageNpcData['ru'][141281] = {name = "Темный великан", subname = nil}
 MultiLanguageNpcData['ru'][141282] = {name = "Кул-тирасский пехотинец", subname = nil}
 MultiLanguageNpcData['ru'][141283] = {name = "Кул-тирасский стражник", subname = nil}
@@ -48548,4 +48550,3 @@ MultiLanguageNpcData['ru'][175413] = {name = "Искробриз", subname = "О
 MultiLanguageNpcData['ru'][175414] = {name = "Адера", subname = "Оружие из замка Нафрия (обычный режим)"}
 MultiLanguageNpcData['ru'][175415] = {name = "Харкот", subname = "Оружие из замка Нафрия (героический режим)"}
 MultiLanguageNpcData['ru'][175416] = {name = "Мигги", subname = nil}
-MultiLanguageNpcData['ru'][175417] = {name = "Суланум", subname = "Оружие из замка Нафрия (эпохальный режим)"}

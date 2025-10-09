@@ -1,3 +1,4 @@
+MultiLanguageNpcData['ru'][175417] = {name = "Суланум", subname = "Оружие из замка Нафрия (эпохальный режим)"}
 MultiLanguageNpcData['ru'][175418] = {name = "Мар'лан", subname = "Доспехи ночного народца"}
 MultiLanguageNpcData['ru'][175419] = {name = "Мастерица Ламда", subname = "Улучшение предметов"}
 MultiLanguageNpcData['ru'][175420] = {name = "Паршивый Коготь", subname = nil}
@@ -45552,4 +45553,3 @@ MultiLanguageNpcData['ru'][233139] = {name = "Механик Кромлег", su
 MultiLanguageNpcData['ru'][233142] = {name = "Мрачный завсегдатай", subname = nil}
 MultiLanguageNpcData['ru'][233143] = {name = "Generic - Empty Bunny", subname = nil}
 MultiLanguageNpcData['ru'][233144] = {name = "Закаленное алгарийское знамя", subname = nil}
-MultiLanguageNpcData['ru'][233145] = {name = "Призовое алгарийское знамя", subname = nil}
