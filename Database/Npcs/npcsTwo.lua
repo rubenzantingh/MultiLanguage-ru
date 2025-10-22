@@ -29146,13 +29146,13 @@ MultiLanguageNpcData['ru'][99228] = {name = "Кайн Ярость Солнца"
 MultiLanguageNpcData['ru'][99229] = {name = "Алтруис Страдалец", subname = "Иллидари"}
 MultiLanguageNpcData['ru'][99230] = {name = "Иллидарский сквернотопырь", subname = nil}
 MultiLanguageNpcData['ru'][99232] = {name = "Защитник с заставы Талрендис", subname = nil}
-MultiLanguageNpcData['ru'][99233] = {name = "Огнезол", subname = nil}
+MultiLanguageNpcData['ru'][99233] = {name = "Живой огонь", subname = nil}
 MultiLanguageNpcData['ru'][99234] = {name = "Сказительница с заставы Талрендис", subname = nil}
 MultiLanguageNpcData['ru'][99235] = {name = "Kill Credit: Bad Intentions", subname = nil}
 MultiLanguageNpcData['ru'][99236] = {name = "Часовой с заставы Талрендис", subname = nil}
 MultiLanguageNpcData['ru'][99237] = {name = "Маг-страж Серебряного Союза", subname = nil}
 MultiLanguageNpcData['ru'][99238] = {name = "Глефомет с заставы Талрендис", subname = nil}
-MultiLanguageNpcData['ru'][99240] = {name = "Система безопасности", subname = nil}
+MultiLanguageNpcData['ru'][99240] = {name = "Сдерживающая заморозка", subname = nil}
 MultiLanguageNpcData['ru'][99241] = {name = "Командир Джарроден", subname = nil}
 MultiLanguageNpcData['ru'][99242] = {name = "Затонувший город - BO - 5 оч.", subname = nil}
 MultiLanguageNpcData['ru'][99244] = {name = "Гиппогриф небесных охотников", subname = nil}
@@ -39608,7 +39608,7 @@ MultiLanguageNpcData['ru'][111261] = {name = "Малфурион Ярость Б
 MultiLanguageNpcData['ru'][111262] = {name = "Аг'тор Кровопал", subname = nil}
 MultiLanguageNpcData['ru'][111263] = {name = "Тур Яролап", subname = nil}
 MultiLanguageNpcData['ru'][111264] = {name = "Пророк Велен", subname = nil}
-MultiLanguageNpcData['ru'][111265] = {name = "Аратор Искупитель", subname = nil}
+MultiLanguageNpcData['ru'][111265] = {name = "Аратор", subname = nil}
 MultiLanguageNpcData['ru'][111266] = {name = "Карательница Джулия Селеста", subname = nil}
 MultiLanguageNpcData['ru'][111267] = {name = "Воздаятель Борос", subname = "Триумвират Длани"}
 MultiLanguageNpcData['ru'][111268] = {name = "Апони Светлая Грива", subname = "Вождь Служителей Солнца"}

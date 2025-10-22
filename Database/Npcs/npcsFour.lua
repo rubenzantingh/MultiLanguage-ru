@@ -32029,7 +32029,7 @@ MultiLanguageNpcData['ru'][215114] = {name = "Работник с Железно
 MultiLanguageNpcData['ru'][215115] = {name = "Любопытный хорек", subname = nil}
 MultiLanguageNpcData['ru'][215116] = {name = "Любопытная мышь", subname = nil}
 MultiLanguageNpcData['ru'][215118] = {name = "Тайник со взрывчаткой", subname = nil}
-MultiLanguageNpcData['ru'][215119] = {name = "Finkle Sharpshear", subname = "[Barber]"}
+MultiLanguageNpcData['ru'][215119] = {name = "Финкль Остростриг", subname = "Парикмахер"}
 MultiLanguageNpcData['ru'][215120] = {name = "Буйный элементаль молний", subname = nil}
 MultiLanguageNpcData['ru'][215125] = {name = "Гурнот", subname = nil}
 MultiLanguageNpcData['ru'][215126] = {name = "Адалар", subname = nil}
@@ -37539,7 +37539,7 @@ MultiLanguageNpcData['ru'][222270] = {name = "Курдран Громовой М
 MultiLanguageNpcData['ru'][222271] = {name = "Данат Троллебой", subname = nil}
 MultiLanguageNpcData['ru'][222272] = {name = "Лужа Альберта", subname = nil}
 MultiLanguageNpcData['ru'][222273] = {name = "Суреки-шелколучница", subname = nil}
-MultiLanguageNpcData['ru'][222274] = {name = "Суреки – темный клинок", subname = nil}
+MultiLanguageNpcData['ru'][222274] = {name = "Суреки – Темный Клинок", subname = nil}
 MultiLanguageNpcData['ru'][222275] = {name = "Тренировочный манекен", subname = nil}
 MultiLanguageNpcData['ru'][222276] = {name = "Заразный пеплоклещ", subname = nil}
 MultiLanguageNpcData['ru'][222277] = {name = "Курдран Громовой Молот", subname = nil}
