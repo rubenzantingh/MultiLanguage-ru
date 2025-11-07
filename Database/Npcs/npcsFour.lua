@@ -400,7 +400,6 @@ MultiLanguageNpcData['ru'][175874] = {name = "Крадущийся друст", 
 MultiLanguageNpcData['ru'][175876] = {name = "Арлин", subname = nil}
 MultiLanguageNpcData['ru'][175877] = {name = "Люмисенда", subname = "Палач из Торгаста"}
 MultiLanguageNpcData['ru'][175878] = {name = "Похититель семян", subname = nil}
-MultiLanguageNpcData['ru'][175879] = {name = "Собиратель семян", subname = nil}
 MultiLanguageNpcData['ru'][175881] = {name = "Наэлькротикс", subname = "Палач из Торгаста"}
 MultiLanguageNpcData['ru'][175882] = {name = "Верный Утробе всадник", subname = nil}
 MultiLanguageNpcData['ru'][175883] = {name = "Скованный Провидец Смерти", subname = nil}
@@ -889,7 +888,6 @@ MultiLanguageNpcData['ru'][176421] = {name = "Уинслоу Лебедь", subn
 MultiLanguageNpcData['ru'][176422] = {name = "Обгоревшее чудище", subname = nil}
 MultiLanguageNpcData['ru'][176423] = {name = "Пылающая стигия", subname = nil}
 MultiLanguageNpcData['ru'][176424] = {name = "Стигийский уголь", subname = nil}
-MultiLanguageNpcData['ru'][176425] = {name = "Защитник пламени", subname = nil}
 MultiLanguageNpcData['ru'][176426] = {name = "Магматический покоритель пламени", subname = nil}
 MultiLanguageNpcData['ru'][176427] = {name = "Стигийский уголь", subname = nil}
 MultiLanguageNpcData['ru'][176428] = {name = "Стигийский кузнец рун", subname = nil}
@@ -1066,7 +1064,6 @@ MultiLanguageNpcData['ru'][176670] = {name = "Повелитель ужаса", 
 MultiLanguageNpcData['ru'][176671] = {name = "Повелительница ужаса", subname = nil}
 MultiLanguageNpcData['ru'][176672] = {name = "Лор'темар Терон", subname = "Лорд-регент Кель'Таласа"}
 MultiLanguageNpcData['ru'][176673] = {name = "Кортийский служитель", subname = nil}
-MultiLanguageNpcData['ru'][176674] = {name = "Служитель", subname = nil}
 MultiLanguageNpcData['ru'][176675] = {name = "Служитель", subname = nil}
 MultiLanguageNpcData['ru'][176676] = {name = "Служитель", subname = nil}
 MultiLanguageNpcData['ru'][176677] = {name = "Кортийский защитник", subname = nil}
@@ -1116,7 +1113,6 @@ MultiLanguageNpcData['ru'][176731] = {name = "Землерой-дворецки�
 MultiLanguageNpcData['ru'][176732] = {name = "Щедрый дар", subname = nil}
 MultiLanguageNpcData['ru'][176733] = {name = "Арсенал союзников", subname = nil}
 MultiLanguageNpcData['ru'][176734] = {name = "Защитная жаровня", subname = nil}
-MultiLanguageNpcData['ru'][176735] = {name = "Швея Рогана", subname = nil}
 MultiLanguageNpcData['ru'][176736] = {name = "Украденные реликвии", subname = nil}
 MultiLanguageNpcData['ru'][176737] = {name = "Соблазнительные ароматы Теотара", subname = nil}
 MultiLanguageNpcData['ru'][176738] = {name = "Зачарованный ящик", subname = nil}
