@@ -782,6 +782,7 @@ MultiLanguageSpellData['ru'][339176] = {name = "Ping Vehicle", additional_info =
 MultiLanguageSpellData['ru'][339177] = {name = "Телепортация на край мира", additional_info = nil}
 MultiLanguageSpellData['ru'][339178] = {name = "Зловещее отражение", additional_info = nil}
 MultiLanguageSpellData['ru'][339179] = {name = "Токсичный поток", additional_info = "Применение: 2 сек\n[q]Создает поток токсичного шлака, раз в 1 сек. нанося урон от сил природы игрокам в области действия эффекта \" Токсичный поток \"."}
+MultiLanguageSpellData['ru'][339180] = {name = "Токсичный поток", additional_info = "Радиус действия: 100 м\nМгновенное действие\n[q]Создает поток токсичного шлака, раз в 1 сек. нанося урон от сил природы игрокам в области действия эффекта \" Токсичный поток \"."}
 MultiLanguageSpellData['ru'][339181] = {name = "Chain Slam (Root)", additional_info = nil}
 MultiLanguageSpellData['ru'][339182] = {name = "[q2]Элизийская панихида", additional_info = "[q0]Проводник\nПроводник силы\nТребуется: Кирии\n[q]Тотем вечернего колокола воздействует на цели рядом с ним с увеличенной на 60% эффективностью."}
 MultiLanguageSpellData['ru'][339183] = {name = "[q2]Извлечение сути", additional_info = "[q0]Проводник\nПроводник силы\nТребуется: Ночной народец\n[q]Сокращает время восстановления \"Волшебного переливания\" на 25.0 сек."}

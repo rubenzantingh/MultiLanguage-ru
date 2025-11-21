@@ -629,6 +629,7 @@ MultiLanguageNpcData['ru'][234147] = {name = "Нэнси", subname = "Опера
 MultiLanguageNpcData['ru'][234150] = {name = "Пойманная лиса", subname = nil}
 MultiLanguageNpcData['ru'][234151] = {name = "Пойманный червь", subname = nil}
 MultiLanguageNpcData['ru'][234152] = {name = "Разносчик еды из концерна К'ареша", subname = "Картель Ау"}
+MultiLanguageNpcData['ru'][234154] = {name = "Живая роза", subname = nil}
 MultiLanguageNpcData['ru'][234155] = {name = "Пойманный лисенок", subname = nil}
 MultiLanguageNpcData['ru'][234157] = {name = "Выживший из Кирин-Тора", subname = nil}
 MultiLanguageNpcData['ru'][234158] = {name = "Заклинатель Серебряного Союза", subname = nil}
