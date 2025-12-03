@@ -3053,3 +3053,5 @@ MultiLanguageNpcData['ru'][254556] = {name = "Официантка", subname = n
 MultiLanguageNpcData['ru'][255049] = {name = "Ру Десвин", subname = "Награды за очки завоевания"}
 MultiLanguageNpcData['ru'][255054] = {name = "Воитель Голин", subname = "Награды за очки завоевания"}
 MultiLanguageNpcData['ru'][255994] = {name = "Копия \"Экзодара\"", subname = nil}
+MultiLanguageNpcData['ru'][258710] = {name = "Су'линь", subname = "Госпожа гнева"}
+MultiLanguageNpcData['ru'][259419] = {name = "Xuen", subname = "The White Tiger"}
