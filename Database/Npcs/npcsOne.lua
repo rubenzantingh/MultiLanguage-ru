@@ -7799,7 +7799,6 @@ MultiLanguageNpcData['ru'][12262] = {name = "Заступник зиккурат
 MultiLanguageNpcData['ru'][12263] = {name = "Защитник бойни", subname = nil}
 MultiLanguageNpcData['ru'][12264] = {name = "Шаззрах", subname = nil}
 MultiLanguageNpcData['ru'][12265] = {name = "Порождение лавы", subname = nil}
-MultiLanguageNpcData['ru'][12276] = {name = "Кокон из улья Зора", subname = nil}
 MultiLanguageNpcData['ru'][12277] = {name = "Мелицца Жужжалит", subname = nil}
 MultiLanguageNpcData['ru'][12296] = {name = "Больная газель", subname = nil}
 MultiLanguageNpcData['ru'][12297] = {name = "Исцеленная газель", subname = nil}

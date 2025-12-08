@@ -8507,7 +8507,7 @@ MultiLanguageNpcData['ru'][130963] = {name = "Назник Чистобрей", 
 MultiLanguageNpcData['ru'][130964] = {name = "Кристофер Дракул", subname = "Регистратор гильдий"}
 MultiLanguageNpcData['ru'][130965] = {name = "Ким Хорн", subname = "Гильдейские предметы"}
 MultiLanguageNpcData['ru'][130966] = {name = "Мериль Плезир", subname = "Торговка гербовыми накидками"}
-MultiLanguageNpcData['ru'][130967] = {name = "Эдвард Ремингтон", subname = "Мастер гильдейских гербовых накидок"}
+MultiLanguageNpcData['ru'][130967] = {name = "Эдвард Ремингтон", subname = "Мастер гербовых накидок"}
 MultiLanguageNpcData['ru'][130968] = {name = "Норман", subname = "Хозяин таверны"}
 MultiLanguageNpcData['ru'][130969] = {name = "Предвестник Балтазад", subname = nil}
 MultiLanguageNpcData['ru'][130970] = {name = "Эвника Барч", subname = "Учительница кулинарии"}
@@ -17294,7 +17294,6 @@ MultiLanguageNpcData['ru'][140525] = {name = "Бурильщик картеля 
 MultiLanguageNpcData['ru'][140526] = {name = "Батрак", subname = nil}
 MultiLanguageNpcData['ru'][140527] = {name = "Кровавый маркиз", subname = nil}
 MultiLanguageNpcData['ru'][140528] = {name = "Жрец моря - архивариус", subname = nil}
-MultiLanguageNpcData['ru'][140529] = {name = "Кровавая маркиза", subname = nil}
 MultiLanguageNpcData['ru'][140530] = {name = "\"Абразивный реконфигулятор 8000\"", subname = "Собственность картеля Трюмных Вод"}
 MultiLanguageNpcData['ru'][140531] = {name = "Кора Кровобой", subname = "Командир заставы"}
 MultiLanguageNpcData['ru'][140532] = {name = "Кровавый маркиз", subname = nil}
