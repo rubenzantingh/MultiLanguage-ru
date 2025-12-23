@@ -16473,6 +16473,7 @@ MultiLanguageNpcData['ru'][84301] = {name = "Старый грозный вор�
 MultiLanguageNpcData['ru'][84302] = {name = "Белуран", subname = nil}
 MultiLanguageNpcData['ru'][84303] = {name = "Коготь ужаса Небесного Пути", subname = nil}
 MultiLanguageNpcData['ru'][84304] = {name = "Фазерра", subname = nil}
+MultiLanguageNpcData['ru'][84305] = {name = "Халанай Бурекрылая", subname = nil}
 MultiLanguageNpcData['ru'][84306] = {name = "Решад", subname = "Хранитель свитков"}
 MultiLanguageNpcData['ru'][84307] = {name = "Воздушный тотем", subname = nil}
 MultiLanguageNpcData['ru'][84308] = {name = "Осиный опустошитель", subname = nil}
@@ -42969,7 +42970,7 @@ MultiLanguageNpcData['ru'][114950] = {name = "Effects Bunny", subname = nil}
 MultiLanguageNpcData['ru'][114951] = {name = "Чинстон", subname = "Дозор огров"}
 MultiLanguageNpcData['ru'][114952] = {name = "Трассер", subname = "Дозор огров"}
 MultiLanguageNpcData['ru'][114953] = {name = "Звуковое устройство", subname = nil}
-MultiLanguageNpcData['ru'][114955] = {name = "Дюпри", subname = "Дозор огров"}
+MultiLanguageNpcData['ru'][114955] = {name = "Доул Гнусиди", subname = "Дозор огров"}
 MultiLanguageNpcData['ru'][114956] = {name = "Виктория", subname = "Дезертир из Сумеречной стражи"}
 MultiLanguageNpcData['ru'][114957] = {name = "Вагнхильд", subname = "Похититель душ"}
 MultiLanguageNpcData['ru'][114958] = {name = "Поработитель из Сумеречной стражи", subname = nil}

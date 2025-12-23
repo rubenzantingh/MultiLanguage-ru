@@ -7799,6 +7799,7 @@ MultiLanguageNpcData['ru'][12262] = {name = "Заступник зиккурат
 MultiLanguageNpcData['ru'][12263] = {name = "Защитник бойни", subname = nil}
 MultiLanguageNpcData['ru'][12264] = {name = "Шаззрах", subname = nil}
 MultiLanguageNpcData['ru'][12265] = {name = "Порождение лавы", subname = nil}
+MultiLanguageNpcData['ru'][12276] = {name = "Кокон из улья Зора", subname = nil}
 MultiLanguageNpcData['ru'][12277] = {name = "Мелицца Жужжалит", subname = nil}
 MultiLanguageNpcData['ru'][12296] = {name = "Больная газель", subname = nil}
 MultiLanguageNpcData['ru'][12297] = {name = "Исцеленная газель", subname = nil}
@@ -32647,7 +32648,7 @@ MultiLanguageNpcData['ru'][44333] = {name = "Марси Льюис", subname = "
 MultiLanguageNpcData['ru'][44334] = {name = "Донна Берримор", subname = "Хозяйка таверны"}
 MultiLanguageNpcData['ru'][44335] = {name = "Виллиард С. Беннингтон", subname = "Смотритель стойл"}
 MultiLanguageNpcData['ru'][44336] = {name = "Стефан Кеббел", subname = "Рыболовные снасти"}
-MultiLanguageNpcData['ru'][44337] = {name = "Морис Эссман", subname = "Товары для кузнецов"}
+MultiLanguageNpcData['ru'][44337] = {name = "Морис Эссман", subname = "Кузнец"}
 MultiLanguageNpcData['ru'][44338] = {name = "Белая курица", subname = nil}
 MultiLanguageNpcData['ru'][44339] = {name = "Саларан", subname = "Оружейник"}
 MultiLanguageNpcData['ru'][44340] = {name = "Джанелла", subname = "Еда и напитки"}
